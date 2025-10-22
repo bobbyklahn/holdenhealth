@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import Link from 'next/link';
 import { useState } from 'react';
 
@@ -12,9 +13,15 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
           <Link href="/" className="flex items-center">
-            <h1 className="text-2xl font-heading font-bold text-primary">
-              HOLDEN HEALTH
-            </h1>
+            <Image
+              src="/images/HoldenHealth_logo_transparent.png"
+              alt="Holden Health logo"
+              width={200}
+              height={60}
+              className="h-12 w-auto"
+              priority
+            />
+            <span className="sr-only">Holden Health</span>
           </Link>
 
           {/* Desktop Navigation */}
