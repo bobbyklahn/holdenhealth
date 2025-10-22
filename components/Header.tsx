@@ -16,9 +16,9 @@ export default function Header() {
             <Image
               src="/images/HoldenHealth_logo_transparent.png"
               alt="Holden Health logo"
-              width={200}
-              height={60}
-              className="h-12 w-auto"
+              width={320}
+              height={96}
+              className="h-14 w-auto sm:h-16 md:h-20"
               priority
             />
             <span className="sr-only">Holden Health</span>
