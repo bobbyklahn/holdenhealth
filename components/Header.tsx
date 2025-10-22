@@ -30,7 +30,10 @@ export default function Header() {
               Home
             </Link>
             <Link href="/products" className="text-gray-700 hover:text-primary transition-colors">
-              Products
+              Medical Product
+            </Link>
+            <Link href="/personal-care-hygiene" className="text-gray-700 hover:text-primary transition-colors">
+              Personal Care &amp; Hygiene
             </Link>
             <Link href="/solutions" className="text-gray-700 hover:text-primary transition-colors">
               Solutions
@@ -81,7 +84,14 @@ export default function Header() {
               className="block py-2 text-gray-700 hover:text-primary transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >
-              Products
+              Medical Product
+            </Link>
+            <Link
+              href="/personal-care-hygiene"
+              className="block py-2 text-gray-700 hover:text-primary transition-colors"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Personal Care &amp; Hygiene
             </Link>
             <Link
               href="/solutions"
