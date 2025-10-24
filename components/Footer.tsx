@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { medicalCategories } from '@/lib/medicalCategories';
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -21,26 +22,13 @@ export default function Footer() {
           <div>
             <h4 className="font-heading font-semibold mb-4">Products</h4>
             <ul className="space-y-2 text-sm">
-              <li>
-                <Link href="/products/surgical" className="text-gray-400 hover:text-primary transition-colors">
-                  Surgical Equipment
-                </Link>
-              </li>
-              <li>
-                <Link href="/products/cardiothoracic" className="text-gray-400 hover:text-primary transition-colors">
-                  Cardiothoracic Surgery
-                </Link>
-              </li>
-              <li>
-                <Link href="/products/urology" className="text-gray-400 hover:text-primary transition-colors">
-                  Urology
-                </Link>
-              </li>
-              <li>
-                <Link href="/products/medical-supplies" className="text-gray-400 hover:text-primary transition-colors">
-                  Medical Supplies
-                </Link>
-              </li>
+              {medicalCategories.map((category) => (
+                <li key={category.slug}>
+                  <Link href={category.href} className="text-gray-400 hover:text-primary transition-colors">
+                    {category.name}
+                  </Link>
+                </li>
+              ))}
             </ul>
           </div>
 
