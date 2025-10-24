@@ -1,96 +1,91 @@
 import Link from 'next/link';
+import { medicalCategories } from '@/lib/medicalCategories';
 
 export default function ProductsPage() {
-  const products = [
-    {
-      category: 'Surgical Equipment',
-      items: [
-        { name: 'Surgical Instruments', description: 'High-precision surgical instruments' },
-        { name: 'Operating Tables', description: 'Advanced positioning systems' },
-        { name: 'Surgical Lights', description: 'LED surgical lighting solutions' },
-        { name: 'Sterilization Equipment', description: 'Autoclave and sterilization systems' }
-      ]
-    },
-    {
-      category: 'Cardiothoracic Surgery',
-      items: [
-        { name: 'Cardiovascular Instruments', description: 'Specialized cardiac surgery tools' },
-        { name: 'Thoracic Surgery Sets', description: 'Complete thoracic procedure kits' },
-        { name: 'Heart-Lung Machines', description: 'Cardiopulmonary bypass systems' },
-        { name: 'Vascular Grafts', description: 'Synthetic and biological grafts' }
-      ]
-    },
-    {
-      category: 'Urology',
-      items: [
-        { name: 'Endoscopy Equipment', description: 'Urological endoscopes and accessories' },
-        { name: 'Lithotripsy Devices', description: 'Stone fragmentation systems' },
-        { name: 'Catheters & Drains', description: 'Urological drainage solutions' },
-        { name: 'Prostate Treatment', description: 'BPH and prostate care devices' }
-      ]
-    },
-    {
-      category: 'Medical Supplies',
-      items: [
-        { name: 'Disposable Supplies', description: 'Single-use medical products' },
-        { name: 'Protective Equipment', description: 'PPE and safety gear' },
-        { name: 'Wound Care', description: 'Dressings and wound management' },
-        { name: 'Diagnostic Equipment', description: 'Medical diagnostic tools' }
-      ]
-    }
-  ];
-
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Hero Section */}
       <section className="bg-gradient-to-r from-primary to-primary-dark text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-5xl font-heading font-bold mb-6">Our Products</h1>
+          <h1 className="text-5xl font-heading font-bold mb-6">Medical Product Portfolio</h1>
           <p className="text-xl opacity-90 max-w-3xl">
-            Comprehensive range of medical equipment and supplies for healthcare professionals
+            Explore Holden Health’s six specialist product families covering perioperative care,
+            critical care, and allied clinical services.
           </p>
         </div>
       </section>
 
-      {/* Products Grid */}
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="space-y-16">
-            {products.map((product, idx) => (
-              <div key={idx}>
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 pb-4 border-b-2 border-primary">
-                  {product.category}
-                </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                  {product.items.map((item, itemIdx) => (
-                    <div
-                      key={itemIdx}
-                      className="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow"
+          <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
+            {medicalCategories.map((category) => (
+              <article
+                key={category.slug}
+                className="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow border border-gray-100"
+              >
+                <div className="p-8 flex flex-col h-full">
+                  <h2 className="text-2xl font-heading font-semibold text-gray-900 mb-4">
+                    {category.name}
+                  </h2>
+                  <p className="text-gray-600 text-sm mb-6 flex-1">{category.description}</p>
+                  <div className="space-y-3">
+                    <Link
+                      href={category.href}
+                      className="inline-flex items-center text-primary font-semibold hover:text-primary-dark transition-colors"
                     >
-                      <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mb-4">
-                        <div className="w-6 h-6 bg-primary rounded"></div>
-                      </div>
-                      <h3 className="text-lg font-heading font-semibold text-gray-900 mb-2">
-                        {item.name}
-                      </h3>
-                      <p className="text-gray-600 text-sm">{item.description}</p>
-                    </div>
-                  ))}
+                      View Products
+                      <svg
+                        className="ml-2 h-4 w-4"
+                        xmlns="http://www.w3.org/2000/svg"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        strokeWidth={2}
+                        stroke="currentColor"
+                        aria-hidden="true"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M13.5 4.5L21 12l-7.5 7.5" />
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M21 12H3" />
+                      </svg>
+                    </Link>
+                    {category.pdf && (
+                      <Link
+                        href={category.pdf}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-flex items-center text-sm text-gray-500 hover:text-primary transition-colors"
+                      >
+                        Download brochure
+                        <svg
+                          className="ml-2 h-4 w-4"
+                          xmlns="http://www.w3.org/2000/svg"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          strokeWidth={2}
+                          stroke="currentColor"
+                          aria-hidden="true"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M7.5 12L12 16.5m0 0l4.5-4.5M12 16.5V3"
+                          />
+                        </svg>
+                      </Link>
+                    )}
+                  </div>
                 </div>
-              </div>
+              </article>
             ))}
           </div>
         </div>
       </section>
 
-      {/* CTA Section */}
       <section className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-heading font-bold text-gray-900 mb-4">
             Need Help Finding the Right Product?
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            Our team of experts is ready to assist you
+            Our clinical specialists can recommend compatible accessories, sizing, and stock plans.
           </p>
           <Link
             href="/contact"

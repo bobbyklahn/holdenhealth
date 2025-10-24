@@ -1,33 +1,8 @@
+import Image from 'next/image';
 import Link from 'next/link';
-import ThreeBackground from '@/components/ThreeBackground';
+import { medicalCategories } from '@/lib/medicalCategories';
 
 export default function Home() {
-  const productCategories = [
-    {
-      title: 'Surgical Equipment',
-      description: 'Advanced surgical instruments and equipment for precision procedures',
-      href: '/products/surgical',
-      image: '/images/surgical.jpg'
-    },
-    {
-      title: 'Cardiothoracic Surgery',
-      description: 'Specialized products for cardiovascular and thoracic procedures',
-      href: '/products/cardiothoracic',
-      image: '/images/cardiothoracic.jpg'
-    },
-    {
-      title: 'Urology',
-      description: 'Comprehensive urological equipment and supplies',
-      href: '/products/urology',
-      image: '/images/urology.jpg'
-    },
-    {
-      title: 'Medical Supplies',
-      description: 'Essential medical supplies for healthcare facilities',
-      href: '/products/medical-supplies',
-      image: '/images/medical-supplies.jpg'
-    }
-  ];
 
   const solutions = [
     {
@@ -46,14 +21,21 @@ export default function Home() {
 
   return (
     <div>
-      {/* Hero Section with Three.js Background */}
-      <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden bg-gradient-to-br from-gray-900 via-gray-800 to-black">
-        <ThreeBackground />
+      {/* Hero Section with Hero Image Background */}
+      <section className="relative min-h-[600px] flex items-center justify-center overflow-hidden">
+        <div className="absolute inset-0 z-0">
+          <img
+            src="/hero.jpg"
+            alt="Healthcare Excellence"
+            className="w-full h-full object-cover"
+          />
+          <div className="absolute inset-0 bg-black/20"></div>
+        </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 text-center">
           <h1 className="text-5xl md:text-7xl font-heading font-bold text-white mb-6">
             Excellence in <span className="text-primary">Healthcare</span>
           </h1>
-          <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
+          <p className="text-xl md:text-2xl text-gray-900 mb-8 max-w-3xl mx-auto">
             Leading provider of medical equipment, surgical supplies, and innovative healthcare solutions
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -85,19 +67,35 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {productCategories.map((category, index) => (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {medicalCategories.map((category, index) => (
               <Link
                 key={index}
                 href={category.href}
                 className="group bg-gray-50 rounded-lg overflow-hidden hover:shadow-xl transition-shadow"
               >
-                <div className="h-48 bg-gradient-to-br from-primary to-primary-dark flex items-center justify-center">
-                  <div className="text-white text-6xl opacity-50">+</div>
+                <div className="relative h-48 overflow-hidden bg-gray-200">
+                  {category.cardImage ? (
+                    <>
+                      <Image
+                        src={category.cardImage}
+                        alt={category.name}
+                        fill
+                        sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 33vw"
+                        className="object-cover transition-transform duration-500 group-hover:scale-105"
+                        priority={index < 3}
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-gray-900/50 via-gray-900/10 to-transparent" />
+                    </>
+                  ) : (
+                    <div className="flex h-full items-center justify-center bg-gradient-to-br from-primary to-primary-dark">
+                      <span className="text-white text-6xl opacity-50">+</span>
+                    </div>
+                  )}
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-heading font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
-                    {category.title}
+                    {category.name}
                   </h3>
                   <p className="text-gray-600">
                     {category.description}

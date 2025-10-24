@@ -1,0 +1,828 @@
+{
+  "products": [
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Perfusion Atomizer System",
+      "slug": "perfusion-atomizer-system",
+      "page": 3,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "page": 4,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "page": 4,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "page": 5,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "page": 5,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Thoracic Catheter",
+      "slug": "thoracic-catheter",
+      "page": 6,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Vacuum Wound Drainage System",
+      "slug": "vacuum-wound-drainage-system",
+      "page": 7,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Redon Drain",
+      "slug": "redon-drain",
+      "page": 7,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "page": 8,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "page": 8,
+      "description": null,
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Graduated Bowls",
+      "slug": "graduated-bowls",
+      "page": 9,
+      "description": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -01 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -02 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -02 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -03 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -03 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -05 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -05 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -07 SURGERY - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -01 - 07",
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Perfusion Atomizer System",
+      "slug": "perfusion-atomizer-system",
+      "page": 3,
+      "description": "is designed to improve vision of the surgical site. An irrigation mist gently clears blood from the site, improving vision without drying or desiccating delicate tissue. Its atomizer offers advanced fluid and gas mixing technology to create a consistent, predictable blood clearing mist. The malleable shaft and the hand piece make it an excellent choice for facilitating a bloodless field.",
+      "features": null,
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Perfusion Atomizer System",
+      "slug": "perfusion-atomizer-system",
+      "page": 3,
+      "description": "01 Description Soft tip, pediatric Rigid tip, adult",
+      "features": null,
+      "codes": [
+        {
+          "code": "HH1933A01",
+          "description": ""
+        },
+        {
+          "code": "HH1221S01",
+          "description": ""
+        },
+        {
+          "code": "HH1222S01",
+          "description": ""
+        }
+      ],
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "page": 4,
+      "description": "· Intended to deliver solution directly to the coronary arteries · Soft basket tip · Different configurations · Malleable stainless steel shaft",
+      "features": [
+        "Intended to deliver solution directly to the coronary arteries",
+        "Soft basket tip",
+        "Different configurations",
+        "Malleable stainless steel shaft"
+      ],
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "page": 4,
+      "description": "· Highly polished blood contact surfaces for patient safety · Available with soft tip and rigid tip Description 10FR 12FR 14FR 10FR 12FR 14FR 90° curved soft basket tip 90° curved soft basket tip 90° curved soft basket tip 135° curved soft basket tip 135° curved soft basket tip 135° curved soft basket tip 02",
+      "features": [
+        "Highly polished blood contact surfaces for patient safety",
+        "Available with soft tip and rigid tip"
+      ],
+      "codes": [
+        {
+          "code": "HH1240A10",
+          "description": ""
+        },
+        {
+          "code": "HH1240A12",
+          "description": ""
+        },
+        {
+          "code": "HH1240A14",
+          "description": ""
+        },
+        {
+          "code": "HH1240B10",
+          "description": ""
+        },
+        {
+          "code": "HH1240B12",
+          "description": ""
+        },
+        {
+          "code": "HH1240B14",
+          "description": ""
+        }
+      ],
+      "sizes": [
+        "10FR",
+        "12FR",
+        "14FR"
+      ]
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "page": 5,
+      "description": "One-way vessel cannula · Opaque structure · I.D. 1.5mm blunt tip · Rigid",
+      "features": [
+        "Opaque structure",
+        "I.D. 1.5mm blunt tip",
+        "Rigid"
+      ],
+      "codes": null,
+      "sizes": [
+        "1.5MM"
+      ]
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "page": 5,
+      "description": "· Vessel cannula for delivery of cardioplegia solution to heart · Available with one-way or free-flow valves in soft blunt tip styles · Two tip sizes are available: I.D. 1.5mm or I.D. 1.0mm Description White color, standard female connector Description I.D. 1.5mm I.D. 1.0mm I.D. 1.5mm, with one-way check valve 03 It is most suitable for post-operative drainage after cardiothoracic and thoracic surgery. Known for precise dimensions, perfect finish and durability. The catheter has numerical depth marks at 2cm increments for easy and precise positioning and the beveled connector can be cropped to form an integral funnel connector.",
+      "features": [
+        "Vessel cannula for delivery of cardioplegia solution to heart",
+        "Available with one-way or free-flow valves in soft blunt tip styles"
+      ],
+      "codes": [
+        {
+          "code": "HH191003",
+          "description": ""
+        },
+        {
+          "code": "HH191001",
+          "description": ""
+        },
+        {
+          "code": "HH191005",
+          "description": ""
+        },
+        {
+          "code": "HH191002",
+          "description": ""
+        }
+      ],
+      "sizes": [
+        "1.5MM",
+        "1.0MM"
+      ]
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Thoracic Catheter",
+      "slug": "thoracic-catheter",
+      "page": 6,
+      "description": "Description 10FR 12FR 14FR 16FR 18FR 20FR 22FR 24FR Description 26FR 28FR 30FR 32FR 34FR 36FR 38FR 40FR 04 Vacuum bottle is pre-evacuated reservoir with connecting tube for post-operative high vacuum wound drainage.",
+      "features": null,
+      "codes": [
+        {
+          "code": "HH1919A10",
+          "description": ""
+        },
+        {
+          "code": "HH1919A12",
+          "description": ""
+        },
+        {
+          "code": "HH1919A14",
+          "description": ""
+        },
+        {
+          "code": "HH1919A16",
+          "description": ""
+        },
+        {
+          "code": "HH1919A18",
+          "description": ""
+        },
+        {
+          "code": "HH1919A20",
+          "description": ""
+        },
+        {
+          "code": "HH1919A22",
+          "description": ""
+        },
+        {
+          "code": "HH1919A24",
+          "description": ""
+        },
+        {
+          "code": "HH1919A26",
+          "description": ""
+        },
+        {
+          "code": "HH1919A28",
+          "description": ""
+        },
+        {
+          "code": "HH1919A30",
+          "description": ""
+        },
+        {
+          "code": "HH1919A32",
+          "description": ""
+        },
+        {
+          "code": "HH1919A34",
+          "description": ""
+        },
+        {
+          "code": "HH1919A36",
+          "description": ""
+        },
+        {
+          "code": "HH1919A38",
+          "description": ""
+        },
+        {
+          "code": "HH1919A40",
+          "description": ""
+        }
+      ],
+      "sizes": [
+        "10FR",
+        "12FR",
+        "14FR",
+        "16FR",
+        "18FR",
+        "20FR",
+        "22FR",
+        "24FR",
+        "26FR",
+        "28FR",
+        "30FR",
+        "32FR",
+        "34FR",
+        "36FR",
+        "38FR",
+        "40FR"
+      ]
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Vacuum Wound Drainage System",
+      "slug": "vacuum-wound-drainage-system",
+      "page": 7,
+      "description": "Description 200ml, pre-vacuumed, with extension line 400ml, pre-vacuumed, with extension line 600ml, pre-vacuumed, with extension line Description 08FR 10FR 12FR 14FR 16FR",
+      "features": null,
+      "codes": [
+        {
+          "code": "HH1938A62",
+          "description": ""
+        },
+        {
+          "code": "HH1938A64",
+          "description": ""
+        },
+        {
+          "code": "HH1938A66",
+          "description": ""
+        },
+        {
+          "code": "HH1951A08",
+          "description": ""
+        },
+        {
+          "code": "HH1951A10",
+          "description": ""
+        },
+        {
+          "code": "HH1951A12",
+          "description": ""
+        },
+        {
+          "code": "HH1951A14",
+          "description": ""
+        },
+        {
+          "code": "HH1951A16",
+          "description": ""
+        }
+      ],
+      "sizes": [
+        "08FR",
+        "10FR",
+        "12FR",
+        "14FR",
+        "16FR"
+      ]
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Redon Drain",
+      "slug": "redon-drain",
+      "page": 7,
+      "description": "· Provided with radio-opaque line and smooth eyes · Cross perforated length of tube: 14cm · Markings on the tube at 19cm from the distal tip · Soft, frosted & kink resistant PVC tubing 05",
+      "features": [
+        "Provided with radio-opaque line and smooth eyes",
+        "Cross perforated length of tube: 14cm",
+        "Markings on the tube at 19cm from the distal tip",
+        "Soft, frosted & kink resistant PVC tubing"
+      ],
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "page": 8,
+      "description": "· Available in red, white and blue · High-density PE · Non-vented",
+      "features": [
+        "Available in red, white and blue",
+        "High-density PE",
+        "Non-vented"
+      ],
+      "codes": null,
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "page": 8,
+      "description": "· Provide two additional ports for administration of any fluid · Used to regulate the flow rate of fluids during clinical infusion With Male Luer Lock With Male Luer Slip Red Blue White 06 Description Our durable plastic bowls are available in a variety of sizes with molded graduations.",
+      "features": [
+        "Provide two additional ports for administration of any fluid",
+        "Used to regulate the flow rate of fluids during clinical infusion",
+        "With Male Luer Lock",
+        "With Male Luer Slip"
+      ],
+      "codes": [
+        {
+          "code": "HH6031A01",
+          "description": ""
+        },
+        {
+          "code": "HH6031B01",
+          "description": ""
+        },
+        {
+          "code": "HH152901",
+          "description": ""
+        },
+        {
+          "code": "HH152902",
+          "description": ""
+        },
+        {
+          "code": "HH152903",
+          "description": ""
+        }
+      ],
+      "sizes": null
+    },
+    {
+      "category": "Cardiothoracic Surgery",
+      "product_name": "Graduated Bowls",
+      "slug": "graduated-bowls",
+      "page": 9,
+      "description": "· Light blue with graduations in ounces and cubic centimeters · Sterile bowls are packaged individually in easy-open peel pouches · Clear/transparent bowl is available as well Description Sterile 32-oz. Bowl Sterile 16-oz. Bowl 07",
+      "features": [
+        "Light blue with graduations in ounces and cubic centimeters",
+        "Sterile bowls are packaged individually in easy-open peel pouches",
+        "Clear/transparent bowl is available as well"
+      ],
+      "codes": [
+        {
+          "code": "HH1972A01",
+          "description": ""
+        },
+        {
+          "code": "HH1972A02",
+          "description": ""
+        }
+      ],
+      "sizes": null
+    }
+  ],
+  "images": [
+    {
+      "page": 3,
+      "product_name": "Perfusion Atomizer System",
+      "slug": "perfusion-atomizer-system",
+      "filename": "perfusion-atomizer-system-01.png"
+    },
+    {
+      "page": 3,
+      "product_name": "Perfusion Atomizer System",
+      "slug": "perfusion-atomizer-system",
+      "filename": "perfusion-atomizer-system-01.png"
+    },
+    {
+      "page": 3,
+      "product_name": "Perfusion Atomizer System",
+      "slug": "perfusion-atomizer-system",
+      "filename": "perfusion-atomizer-system-01.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-01.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-02.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-03.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-04.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-01.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-02.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-03.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-04.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-01.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-02.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-03.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Ostial Perfusion Cannula",
+      "slug": "ostial-perfusion-cannula",
+      "filename": "ostial-perfusion-cannula-04.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-01.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-02.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-03.png"
+    },
+    {
+      "page": 4,
+      "product_name": "Sucker Intracardiac",
+      "slug": "sucker-intracardiac",
+      "filename": "sucker-intracardiac-04.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "filename": "vein-cannula-01.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "filename": "vein-cannula-02.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "filename": "vein-cannula-03.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "filename": "vessel-cannula-01.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "filename": "vessel-cannula-02.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "filename": "vessel-cannula-03.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "filename": "vein-cannula-01.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "filename": "vein-cannula-02.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vein Cannula",
+      "slug": "vein-cannula",
+      "filename": "vein-cannula-03.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "filename": "vessel-cannula-01.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "filename": "vessel-cannula-02.png"
+    },
+    {
+      "page": 5,
+      "product_name": "Vessel Cannula",
+      "slug": "vessel-cannula",
+      "filename": "vessel-cannula-03.png"
+    },
+    {
+      "page": 6,
+      "product_name": "Thoracic Catheter",
+      "slug": "thoracic-catheter",
+      "filename": "thoracic-catheter-01.png"
+    },
+    {
+      "page": 6,
+      "product_name": "Thoracic Catheter",
+      "slug": "thoracic-catheter",
+      "filename": "thoracic-catheter-02.png"
+    },
+    {
+      "page": 6,
+      "product_name": "Thoracic Catheter",
+      "slug": "thoracic-catheter",
+      "filename": "thoracic-catheter-01.png"
+    },
+    {
+      "page": 6,
+      "product_name": "Thoracic Catheter",
+      "slug": "thoracic-catheter",
+      "filename": "thoracic-catheter-02.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Vacuum Wound Drainage System",
+      "slug": "vacuum-wound-drainage-system",
+      "filename": "vacuum-wound-drainage-system-01.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Vacuum Wound Drainage System",
+      "slug": "vacuum-wound-drainage-system",
+      "filename": "vacuum-wound-drainage-system-02.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Redon Drain",
+      "slug": "redon-drain",
+      "filename": "redon-drain-01.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Redon Drain",
+      "slug": "redon-drain",
+      "filename": "redon-drain-02.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Vacuum Wound Drainage System",
+      "slug": "vacuum-wound-drainage-system",
+      "filename": "vacuum-wound-drainage-system-01.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Vacuum Wound Drainage System",
+      "slug": "vacuum-wound-drainage-system",
+      "filename": "vacuum-wound-drainage-system-02.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Redon Drain",
+      "slug": "redon-drain",
+      "filename": "redon-drain-01.png"
+    },
+    {
+      "page": 7,
+      "product_name": "Redon Drain",
+      "slug": "redon-drain",
+      "filename": "redon-drain-02.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "filename": "protection-cap-01.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "filename": "protection-cap-02.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "filename": "protection-cap-03.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "filename": "three-way-stop-cock-01.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "filename": "three-way-stop-cock-02.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "filename": "three-way-stop-cock-03.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "filename": "protection-cap-01.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "filename": "protection-cap-02.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Protection Cap",
+      "slug": "protection-cap",
+      "filename": "protection-cap-03.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "filename": "three-way-stop-cock-01.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "filename": "three-way-stop-cock-02.png"
+    },
+    {
+      "page": 8,
+      "product_name": "Three-way Stop Cock",
+      "slug": "three-way-stop-cock",
+      "filename": "three-way-stop-cock-03.png"
+    },
+    {
+      "page": 9,
+      "product_name": "Graduated Bowls",
+      "slug": "graduated-bowls",
+      "filename": "graduated-bowls-01.png"
+    },
+    {
+      "page": 9,
+      "product_name": "Graduated Bowls",
+      "slug": "graduated-bowls",
+      "filename": "graduated-bowls-01.png"
+    }
+  ],
+  "source_pdf": "Cardiothoracic Surgery Products.pdf",
+  "notes": "Images are named by product slug derived from title. If multiple products are on one page, images are duplicated per product name."
+}
