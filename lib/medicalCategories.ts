@@ -19,7 +19,7 @@ export const medicalCategories: MedicalCategory[] = [
     dataFile: 'cardiothoracic_products.json',
     imageDir: '/products/cardiothoracic-surgery',
     pdf: '/brochures/cardiothoracic-surgery-products.pdf',
-    cardImage: '/products/cardiothoracic-surgery/perfusion-atomizer-system-01.png'
+    cardImage: '/images/categories/Cardiothoracic_Surgery.png'
   },
   {
     name: 'Enteral Feeding Product',
@@ -29,7 +29,7 @@ export const medicalCategories: MedicalCategory[] = [
     dataFile: 'enteral_products.json',
     imageDir: '/products/enteral-feeding',
     pdf: '/brochures/enteral-feeding-product.pdf',
-    cardImage: '/products/enteral-feeding/enteral-feeding-bag-set-01.png'
+    cardImage: '/images/categories/Enteral_Feeding.png'
   },
   {
     name: 'Fluid Management System',
@@ -40,7 +40,7 @@ export const medicalCategories: MedicalCategory[] = [
     dataFile: 'fluid_mgmt_products.json',
     imageDir: '/products/fluid-management',
     pdf: '/brochures/fluid-management-system.pdf',
-    cardImage: '/products/fluid-management/automatic-transfer-of-fluids-01.png'
+    cardImage: '/images/categories/Fluid_Management.png'
   },
   {
     name: 'Respiratory & Anesthesia',
@@ -50,7 +50,7 @@ export const medicalCategories: MedicalCategory[] = [
     dataFile: 'resp_an_products.json',
     imageDir: '/products/respiratory-anesthesia',
     pdf: '/brochures/respiratory-anesthesia.pdf',
-    cardImage: '/products/respiratory-anesthesia/oxygen-mask-01.png'
+    cardImage: '/images/categories/Respiratory_Anesthesia.png'
   },
   {
     name: 'Surgical Suction',
@@ -60,7 +60,7 @@ export const medicalCategories: MedicalCategory[] = [
     dataFile: 'surgical_suction_products.json',
     imageDir: '/products/surgical-suction',
     pdf: '/brochures/surgical-suction.pdf',
-    cardImage: '/products/surgical-suction/super-smooth-distal-yankauer-01.png'
+    cardImage: '/images/categories/Surgical Suction.png'
   },
   {
     name: 'Urology',
@@ -70,6 +70,6 @@ export const medicalCategories: MedicalCategory[] = [
     dataFile: 'urology_products.json',
     imageDir: '/products/urology',
     pdf: '/brochures/urology.pdf',
-    cardImage: '/products/urology/balsam-urine-bag-01.png'
+    cardImage: '/images/categories/Urology.png'
   }
 ];
