@@ -1,702 +1,434 @@
 {
   "products": [
     {
-      "category": "Enteral Feeding",
-      "product_name": "Polyurethane Nasogastric Feeding Tubes",
-      "slug": "polyurethane-nasogastric-feeding-tubes",
-      "page": 3,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "category": "Enteral Feeding Product",
+      "product_name": "Dual Lumen Stomach Tube",
+      "slug": "duallumenstomachtube",
+      "page": null,
+      "description": "The Dual Lumen Stomach Tube is a specialized device designed for simultaneous gastric decompression and nutritional support. It features two distinct channels: one for draining stomach contents\u2014reducing abdominal pressure and aspiration risk\u2014and another for delivering enteral nutrition or medications. Typically inserted via the nose or mouth, this tube enhances patient comfort and improves clinical outcomes in critical care and postoperative settings.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1908J14L12",
+          "description": "Description: Radio-opaque stripe tube,without weighted tip \u00b7 Size: 14FR, total length135 cm, main catheter 120 cm"
+        }
+      ],
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Polyurethane Y-Port Nasogastric Feeding Tubes",
-      "slug": "polyurethane-y-port-nasogastric-feeding-tubes",
-      "page": 4,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "category": "Enteral Feeding Product",
+      "product_name": "ENFit \u00ae Enteral Syringes",
+      "slug": "enfit-enteral-syringes",
+      "page": null,
+      "description": "ENFit enteral syringes are designed to enhance safety in enteral nutrition. With their standardized ENFit connectors, they prevent dangerous misconnections and ensure accurate delivery of fluids or medications.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC6038F03",
+          "description": "No.: 01 \u00b7 Volume(ml): 3 \u00b7 Tip Position: Centric"
+        },
+        {
+          "code": "GC6038F05",
+          "description": "No.: 02 \u00b7 Volume(ml): 5 \u00b7 Tip Position: Centric"
+        },
+        {
+          "code": "GC6038F10",
+          "description": "No.: 03 \u00b7 Volume(ml): 10 \u00b7 Tip Position: Centric"
+        },
+        {
+          "code": "GC6038F15",
+          "description": "No.: 04 \u00b7 Volume(ml): 15 \u00b7 Tip Position: Centric"
+        },
+        {
+          "code": "GC6038F20",
+          "description": "No.: 05 \u00b7 Volume(ml): 20 \u00b7 Tip Position: Centric"
+        },
+        {
+          "code": "GC6038F35",
+          "description": "No.: 06 \u00b7 Volume(ml): 35 \u00b7 Tip Position: Centric"
+        },
+        {
+          "code": "GC6038F60",
+          "description": "No.: 07 \u00b7 Volume(ml): 60 \u00b7 Tip Position: Centric"
+        }
+      ],
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Syringes",
-      "slug": "enteral-syringes",
-      "page": 5,
-      "description": "Funnel Transition Connector With Cap Funnel Transition Connector",
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "category": "Enteral Feeding Product",
+      "product_name": "ENFit \u00ae Polyurethane Nasogastric Feeding Tubes",
+      "slug": "enfit-feeding-tube",
+      "page": null,
+      "description": "ENFit Polyurethane Nasogastric Feeding Tubes are made of durable polyurethane. Their ENFit design offers a secure, standardized connection for safe and accurate tube feeding, reducing misconnections during use.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1909I",
+          "description": "No.: 01 \u00b7 Description: Enteral feeding tube with radio-opague stripe, non-weighted tip, with guide-wire \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909F",
+          "description": "No.: 02 \u00b7 Description: Fully radio-opaque enteral feeding tube, non-weighted tip, without guide-wire \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909Y",
+          "description": "No.: 03 \u00b7 Description: Fully radio-opaque enteral feeding tube, non-weighted tip, with guide-wire \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909Z",
+          "description": "No.: 04 \u00b7 Description: Enteral feeding tube with radio-opaque stripe, non-weighted tip, without guide-wire \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909L",
+          "description": "No.: 01 \u00b7 Description: Fully radio-opaque enteral feeding tube, weighted tip, with guide-wire \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909P",
+          "description": "No.: 02 \u00b7 Description: Fully radio-opaque enteral feeding tube, weighted tip, without guide-wire \u00b7 Size: 4FR-20FR"
+        }
+      ],
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
+      "category": "Enteral Feeding Product",
+      "product_name": "ENFit \u00ae Polyurethane Y-Port Nasogastric Feeding Tubes",
+      "slug": "nasogastric-tube-feeding",
+      "page": null,
+      "description": "Y-Port Nasogastric Feeding Tube\u2019s dual ports allows simultaneous feeding, flushing, delivery of medications without unnecessary disconnection from feeding lines.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1909G",
+          "description": "No.: 01 \u00b7 Description: Y port, fully radio-opaque tube, without guide-wire. \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909O",
+          "description": "No.: 02 \u00b7 Description: Y port, fully radio-opaque tube, with guide-wire. \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909W",
+          "description": "No.: 01 \u00b7 Description: Y port, transparent tube with radio-opaque stripe, with guide-wire. \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909Q",
+          "description": "No.: 02 \u00b7 Description: Y port, fully radio-opaque tube, without guide-wire. \u00b7 Size: 4FR-20FR"
+        },
+        {
+          "code": "GC1909X",
+          "description": "No.: 03 \u00b7 Description: Y port, fully radio-opaque tube, with guide-wire. \u00b7 Size: 4FR-20FR"
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "category": "Enteral Feeding Product",
+      "product_name": "Enteral Drainage Bag",
+      "slug": "enteral-drainage-bag",
+      "page": null,
+      "description": "Enteral drainage bags to fit any ENFit\u00ae compliant tubes is used for gastric drainage. The 500ml and 1000ml bags include integral tubing. The bags are made from soft EVA material.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1986A005",
+          "description": "No.: 01 \u00b7 Size: 50ml"
+        },
+        {
+          "code": "GC1986A025",
+          "description": "No.: 02 \u00b7 Size: 250ml"
+        },
+        {
+          "code": "GC1986A050",
+          "description": "No.: 03 \u00b7 Size: 500ml"
+        },
+        {
+          "code": "GC1986A100",
+          "description": "No.: 04 \u00b7 Size: 1000ml"
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "category": "Enteral Feeding Product",
+      "product_name": "Enteral Extension Set",
+      "slug": "feeding-tube-extension-set",
+      "page": null,
+      "description": "An Enteral Extension Set is an essential addition to enteral feeding systems. It extends the length of feeding tubes, providing flexibility in patient positioning and making it easier to manage tube feeding in various settings.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC6035E11",
+          "description": "No.: 01 \u00b7 Lengths: 75cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 1.6mm"
+        },
+        {
+          "code": "GC6035E12",
+          "description": "No.: 02 \u00b7 Lengths: 100cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 1.6mm"
+        },
+        {
+          "code": "GC6035E13",
+          "description": "No.: 03 \u00b7 Lengths: 150cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 1.6mm"
+        },
+        {
+          "code": "GC6035E01",
+          "description": "No.: 04 \u00b7 Lengths: 75cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 2.8mm"
+        },
+        {
+          "code": "GC6035E02",
+          "description": "No.: 05 \u00b7 Lengths: 100cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 2.8mm"
+        },
+        {
+          "code": "GC6035E03",
+          "description": "No.: 06 \u00b7 Lengths: 150cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 2.8mm"
+        },
+        {
+          "code": "GC6035E21",
+          "description": "No.: 07 \u00b7 Lengths: 75cm \u00b7 Description: Extension Set with ENFit\u00ae Connection, ID 6.0mm"
+        },
+        {
+          "code": "GC6035F11",
+          "description": "No.: 08 \u00b7 Lengths: 75cm \u00b7 Description: Bifurcated Extension Set with ENFit\u00ae Connection, ID 1.6mm"
+        },
+        {
+          "code": "GC6035F12",
+          "description": "No.: 09 \u00b7 Lengths: 100cm \u00b7 Description: Bifurcated Extension Set with ENFit\u00ae Connection, ID 1.6mm"
+        },
+        {
+          "code": "GC6035F13",
+          "description": "No.: 10 \u00b7 Lengths: 150cm \u00b7 Description: Bifurcated Extension Set with ENFit\u00ae Connection, ID 1.6mm"
+        },
+        {
+          "code": "GC6035F01",
+          "description": "No.: 11 \u00b7 Lengths: 75cm \u00b7 Description: Bifurcated Extension Set with ENFit\u00ae Connection, ID 2.8mm"
+        },
+        {
+          "code": "GC6035F02",
+          "description": "No.: 12 \u00b7 Lengths: 100cm \u00b7 Description: Bifurcated Extension Set with ENFit\u00ae Connection, ID 2.8mm"
+        },
+        {
+          "code": "GC6035F03",
+          "description": "No.: 13 \u00b7 Lengths: 150cm \u00b7 Description: Bifurcated Extension Set with ENFit\u00ae Connection, ID 2.8mm"
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "category": "Enteral Feeding Product",
+      "product_name": "Enteral Feeding Bag Set",
+      "slug": "enteral-feeding-bag",
+      "page": null,
+      "description": "Enteral feeding bag set offers an anti-free flow safety feature that is incorporated into the enteral feeding bag, and spike pump sets protects the patient from the possible free flow of formula that may result from the pump set becoming dislodged or being loaded incorrectly.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1979A010",
+          "description": "No.: 01 \u00b7 Description: Enteral Feeding Gravity Set, 1000ml"
+        },
+        {
+          "code": "GC1979A012",
+          "description": "No.: 02 \u00b7 Description: Enteral Feeding Gravity Set, 1200ml"
+        },
+        {
+          "code": "GC1979B010",
+          "description": "No.: 03 \u00b7 Description: Enteral Feeding Pump Bag Set, 1000ml"
+        },
+        {
+          "code": "GC1979B012",
+          "description": "No.: 04 \u00b7 Description: Enteral Feeding Pump Bag Set, 1200ml"
+        },
+        {
+          "code": "GC1979C300",
+          "description": "No.: 05 \u00b7 Description: Enteral Feeding Spike Set"
+        }
+      ],
+      "sizes": []
+    },
+    {
+      "category": "Enteral Feeding Product",
       "product_name": "Enteral Placement Kits",
       "slug": "enteral-placement-kits",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "page": null,
+      "description": "Enteral Placement Kits are comprehensive tools for healthcare providers. They contain all necessary items like tubes, guides, and syringes to accurately place enteral feeding tubes, ensuring safe and efficient tube - feeding initiation.",
+      "features": [],
+      "codes": [],
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Extension Set",
-      "slug": "enteral-extension-set",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "category": "Enteral Feeding Product",
+      "product_name": "Funnel ENFit\u00ae Transition Connector",
+      "slug": "enfit-connector",
+      "page": null,
+      "description": "The ENFit transition connector plays a pivotal role in enteral nutrition setups. This connector bridges the gap between legacy and ENFit - designed components, facilitating a smooth shift and safeguarding against potentially harmful misconnections during the change - over.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC0929",
+          "description": "No.: 01 \u00b7 Description: Female ENFit\u00ae , Female Luer Lock Adapter, Purple"
+        }
+      ],
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Feeding Bag Set",
-      "slug": "enteral-feeding-bag-set",
-      "page": 7,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "category": "Enteral Feeding Product",
+      "product_name": "Funnel ENFit\u00ae Transition Connector With Cap",
+      "slug": "enfit-transition-connector",
+      "page": null,
+      "description": "The enteral transition adapters are provided in a number of configurations providing different connection possibilities to enteral devices currently on the market. Adapters will facilitate compatibility between the new ENFit\u00ae system and the current existing system of devices as the market transitions to ENFit\u00ae.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1909K01",
+          "description": "No.: 01 \u00b7 Description: Enteral Transition adapters for enteral feeding"
+        }
+      ],
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Nasointestinal Feeding Tube",
-      "slug": "nasointestinal-feeding-tube",
-      "page": 8,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
+      "category": "Enteral Feeding Product",
       "product_name": "Nasogastric (Ryles) Tubes",
-      "slug": "nasogastric-ryles-tubes",
-      "page": 8,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Drainage Bag",
-      "slug": "enteral-drainage-bag",
-      "page": 9,
-      "description": "ENTERAL FEEDING PRODUCT ® ® ® ® - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -01 - 07 - - - - - - - - - - - - - - - - - -01 - - - - - - - - - - - -02 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -03 - - - - - - - - - - - - - - - - - - - -03 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -03 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -05 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -07 Non-weighted Tip No. 4FR-20FR 4FR-20FR 4FR-20FR 4FR-20FR Enteral feeding tube with radio-opague stripe, non-weighted tip, with guide-wire Fully radio-opaque enteral feeding tube, non-weighted tip, without guide-wire Fully radio-opaque enteral feeding tube, non-weighted tip, with guide-wire Enteral feeding tube with radio-opaque stripe, non-weighted tip, without guide-wire Weighted Tip 4FR-20FR 4FR-20FR No. 01 02 Fully radio-opaque enteral feeding tube, weighted tip, with guide-wire Fully radio-opaque enteral feeding tube, weighted tip, without guide-wire Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 01 Guide-wire Connector Up To 30 Days Use ® neonates to adults both in hospital and at home. They help patients who cannot obtain an adequate oral intake from food and/or oral nutritional supplements, or who cannot eat/drink safely. polyurethane nasogastric feeding tubes are constructed with polyurethane, making them excellent for long-term intubation, up to 30 days.",
-      "features": null,
+      "slug": "nasogastric-tube",
+      "page": null,
+      "description": "Ryles Tubes, also called nasogastric tubes, are flexible, hollow medical tools. Inserted via the nose into the stomach, they help with feeding, gastric decompression, and drug delivery for patients with diverse medical needs.",
+      "features": [],
       "codes": [
         {
-          "code": "HH1909I",
-          "description": ""
+          "code": "GC1908H",
+          "description": "No.: 01 \u00b7 Description: Fully radio-opaque tube, without weighted tip"
         },
         {
-          "code": "HH1909F",
-          "description": ""
-        },
-        {
-          "code": "HH1909Y",
-          "description": ""
-        },
-        {
-          "code": "HH1909Z",
-          "description": ""
-        },
-        {
-          "code": "HH1909L",
-          "description": ""
-        },
-        {
-          "code": "HH1909P",
-          "description": ""
-        },
-        {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
+          "code": "GC1908H",
+          "description": "No.: 02 \u00b7 Description: Transparent tube with radio-opaque stripe, without weighted tip"
         }
       ],
-      "sizes": [
-        "4FR",
-        "20FR",
-        "4FR-20FR"
-      ]
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Polyurethane Nasogastric Feeding Tubes",
-      "slug": "polyurethane-nasogastric-feeding-tubes",
-      "page": 3,
-      "description": "® ® Connector ® Colour-coded tether 01 02 03 04 Weighted tip Closed rounded tip Guide-wire Guide-wire Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 02 Non-weighted Tip Weighted Tip No. 01 02 4FR-20FR 4FR-20FR Y port, fully radio-opaque tube, without guide-wire. Y port, fully radio-opaque tube, with guide-wire. No. 01 02 03 4FR-20FR 4FR-20FR 4FR-20FR Y port, transparent tube with radio-opaque stripe, with guide-wire. Y port, fully radio-opaque tube, without guide-wire. Y port, fully radio-opaque tube, with guide-wire. Y-Port Nasogastric Feeding Tube’s dual ports allows simultaneous feeding, flushing, delivery of medications without unnecessary disconnection from feeding lines. Extended Weighted tip Weighted tip Closed rounded tip Guide-wire Guide-wire Y-Port Connector",
-      "features": null,
-      "codes": [
-        {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
-        },
-        {
-          "code": "HH1909G",
-          "description": ""
-        },
-        {
-          "code": "HH1909O",
-          "description": ""
-        },
-        {
-          "code": "HH1909W",
-          "description": ""
-        },
-        {
-          "code": "HH1909Q",
-          "description": ""
-        },
-        {
-          "code": "HH1909X",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "4FR",
-        "20FR",
-        "4FR-20FR"
-      ]
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Polyurethane Y-Port Nasogastric Feeding Tubes",
-      "slug": "polyurethane-y-port-nasogastric-feeding-tubes",
-      "page": 4,
-      "description": "® No. 01 02 03 04 05 06 07 3 5 10 15 20 35 60 Centric Centric Centric Centric Centric Centric Centric Tip Position Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 03 No. 01 Enteral Transition adapters for enteral feeding No. 01 Female , Female Luer Lock Adapter, Purple ®",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH6038F03",
-          "description": ""
-        },
-        {
-          "code": "HH6038F05",
-          "description": ""
-        },
-        {
-          "code": "HH6038F10",
-          "description": ""
-        },
-        {
-          "code": "HH6038F15",
-          "description": ""
-        },
-        {
-          "code": "HH6038F20",
-          "description": ""
-        },
-        {
-          "code": "HH6038F35",
-          "description": ""
-        },
-        {
-          "code": "HH6038F60",
-          "description": ""
-        },
-        {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
-        },
-        {
-          "code": "HH1909K01",
-          "description": ""
-        },
-        {
-          "code": "HH0929",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Syringes",
-      "slug": "enteral-syringes",
-      "page": 5,
-      "description": "· Enteral Single Use Syringes · Enteral ISO SAF, single use enteral syringes · With female connection (ISO 80369-3) · Low dose option available in 1ml & 3ml syringes · Clear, purple plunger, dual marking for the 5ml, 10ml, 20ml and 50/60ml, female tip ® ® The enteral transition adapters are provided in a number of configurations providing different connection possibil- ities to enteral devices currently on the market. Adapters will facilitate compatibility between the new system and the current existing system of devices as the market transitions to .® ® Funnel Transition Connector With Cap ® Funnel Transition Connector ®",
-      "features": [
-        "Enteral Single Use Syringes",
-        "Enteral ISO SAF, single use enteral syringes",
-        "With female connection (ISO 80369-3)",
-        "Low dose option available in 1ml & 3ml syringes",
-        "Clear, purple plunger, dual marking for the 5ml, 10ml, 20ml and 50/60ml,",
-        "female tip",
-        "®",
-        "®",
-        "The enteral transition adapters are provided in a number of configurations providing different connection possibil-",
-        "ities to enteral devices currently on the market. Adapters will facilitate compatibility between the new",
-        "system and the current existing system of devices as the market transitions to .®",
-        "®",
-        "Funnel Transition Connector With Cap",
-        "®",
-        "Funnel Transition Connector",
-        "®"
-      ],
-      "codes": null,
-      "sizes": [
-        "1ML",
-        "3ML",
-        "5ML",
-        "10ML",
-        "20ML",
-        "60ML"
-      ]
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Placement Kits",
-      "slug": "enteral-placement-kits",
-      "page": 6,
-      "description": "Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 04",
-      "features": null,
-      "codes": [
-        {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Extension Set",
-      "slug": "enteral-extension-set",
-      "page": 6,
-      "description": "It is intended to provide a means of delivering enteral nutrition or medication from an enteral feeding syringe through to any feeding tube which will accept a connector for enteral applications and are for neonates and infants who require enteral feeding. Extension sets come in two different configurations: Straight and Bifurcated. · Lengths include 75cm, 100cm and 150cm · With or without bifurcation (med port) · DEHP/LATEX free No. 01 02 03 04 05 06 07 08 09 10 11 12 13 75cm 100cm 150cm 75cm 100cm 150cm 75cm 75cm 100cm 150cm 75cm 100cm 150cm Extension Set with Connection, ID 1.6mm Extension Set with Connection, ID 1.6mm Extension Set with Connection, ID 1.6mm Extension Set with Connection, ID 2.8mm Extension Set with Connection, ID 2.8mm Extension Set with Connection, ID 2.8mm Extension Set with Connection, ID 6.0mm Bifurcated Extension Set with Connection, ID 1.6mm Bifurcated Extension Set with Connection, ID 1.6mm Bifurcated Extension Set with Connection, ID 1.6mm Bifurcated Extension Set with Connection, ID 2.8mm Bifurcated Extension Set with Connection, ID 2.8mm Bifurcated Extension Set with Connection, ID 2.8mm ® ® ® ® ® ® ® ® ® ® ® ® ® · Feeding tube with connector · Feeding syringe · Lubrication jelly · Tape · PH stripe ®",
-      "features": [
-        "Lengths include 75cm, 100cm and 150cm",
-        "With or without bifurcation (med port)",
-        "DEHP/LATEX free",
-        "No.",
-        "01",
-        "02",
-        "03",
-        "04",
-        "05",
-        "06",
-        "07",
-        "08",
-        "09",
-        "10",
-        "11",
-        "12",
-        "13",
-        "HH6035E11"
-      ],
-      "codes": [
-        {
-          "code": "HH6035E11",
-          "description": ""
-        },
-        {
-          "code": "HH6035E12",
-          "description": ""
-        },
-        {
-          "code": "HH6035E13",
-          "description": ""
-        },
-        {
-          "code": "HH6035E01",
-          "description": ""
-        },
-        {
-          "code": "HH6035E02",
-          "description": ""
-        },
-        {
-          "code": "HH6035E03",
-          "description": ""
-        },
-        {
-          "code": "HH6035E21",
-          "description": ""
-        },
-        {
-          "code": "HH6035F11",
-          "description": ""
-        },
-        {
-          "code": "HH6035F12",
-          "description": ""
-        },
-        {
-          "code": "HH6035F13",
-          "description": ""
-        },
-        {
-          "code": "HH6035F01",
-          "description": ""
-        },
-        {
-          "code": "HH6035F02",
-          "description": ""
-        },
-        {
-          "code": "HH6035F03",
-          "description": ""
-        },
-        {
-          "code": "HH1987H01",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Feeding Bag Set",
-      "slug": "enteral-feeding-bag-set",
-      "page": 7,
-      "description": "TM connector Spike Spike connector",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Feeding Bag Set",
-      "slug": "enteral-feeding-bag-set",
-      "page": 7,
-      "description": "offers an anti-free flow safety feature that is incorporated into the enteral feeding bag, and spike pump sets protects the patient from the possible free flow of formula that may result from the pump set becom- ing dislodged or being loaded incorrectly. Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 05 Universal Bottle Adapter for ENPlus Cross Spike ® ® No. 01 02 03 04 05 Enteral Feeding Gravity Set, 1000ml Enteral Feeding Gravity Set, 1200ml Enteral Feeding Pump Bag Set, 1000ml Enteral Feeding Pump Bag Set, 1200ml Enteral Feeding Spike Set",
-      "features": null,
-      "codes": [
-        {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
-        },
-        {
-          "code": "HH1979A010",
-          "description": ""
-        },
-        {
-          "code": "HH1979A012",
-          "description": ""
-        },
-        {
-          "code": "HH1979B010",
-          "description": ""
-        },
-        {
-          "code": "HH1979B012",
-          "description": ""
-        },
-        {
-          "code": "HH1979C300",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "1000ML",
-        "1200ML"
-      ]
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Nasointestinal Feeding Tube",
-      "slug": "nasointestinal-feeding-tube",
-      "page": 8,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Enteral Feeding",
+      "category": "Enteral Feeding Product",
       "product_name": "Nasogastric (Ryles) Tubes",
-      "slug": "nasogastric-ryles-tubes",
-      "page": 8,
-      "description": "· Feeding tube designed with large, bolus tip, facilitating passage and helping placing · Feeding ports are incompatible with Luer-lock or I.V. connectors, reducing the risk of accidental connection or infusion · Available with stylets offering easy insertion No. 01 02 03 04 6FR 8FR 10FR 12FR Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 06 · For nasogastric introduction of nutrition and aspiration of intestinal secretion · Closed distal end coned with radio-opaque material for accurate placement · Four lateral eyes · Tube with radio-opaque stripe, graduated from the tip for accurate placement · Soft, frosted and kink resistant PVC or PU tubing · Color coded funnel end connector for easy identification of size · Available with or without Luer connector · Length: 90cm, 105cm, 110cm, 122cm · Sizes: 4Fr to 24Fr · DEHP/LATEX free No. 01 02 03 Radio-opaque weighted tip Radio-opaque weighted tip and Luer adapter Radio-opaque stripe tubing with weighted tip and Luer adapter No. 01 02 Fully radio-opaque tube, without weighted tip Transparent tube with radio-opaque stripe, without weighted tip",
-      "features": [
-        "Feeding tube designed with large, bolus tip, facilitating passage and",
-        "helping placing",
-        "Feeding ports are incompatible with Luer-lock or I.V. connectors,",
-        "reducing the risk of accidental connection or infusion",
-        "Available with stylets offering easy insertion",
-        "No.",
-        "01",
-        "02",
-        "03",
-        "04"
-      ],
+      "slug": "ng-tube",
+      "page": null,
+      "description": "Ryles tubes are flexible, long - standing medical devices. Inserted through the nose into the stomach, they're used for multiple purposes, such as removing gastric contents, delivering nutrients, and administering medications.",
+      "features": [],
       "codes": [
         {
-          "code": "HH1909C06",
-          "description": ""
+          "code": "GC1908E",
+          "description": "No.: 01 \u00b7 Description: Radio-opaque weighted tip"
         },
         {
-          "code": "HH1909C08",
-          "description": ""
+          "code": "GC1908F",
+          "description": "No.: 02 \u00b7 Description: Radio-opaque weighted tip and Luer adapter"
         },
         {
-          "code": "HH1909C10",
-          "description": ""
-        },
-        {
-          "code": "HH1909C12",
-          "description": ""
-        },
-        {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
-        },
-        {
-          "code": "HH1908E",
-          "description": ""
-        },
-        {
-          "code": "HH1908F",
-          "description": ""
-        },
-        {
-          "code": "HH1908G",
-          "description": ""
-        },
-        {
-          "code": "HH1908H",
-          "description": ""
-        },
-        {
-          "code": "HH1908I",
-          "description": ""
+          "code": "GC1908G",
+          "description": "No.: 03 \u00b7 Description: Radio-opaque stripe tubing with weighted tip and Luer adapter"
         }
       ],
-      "sizes": [
-        "6FR",
-        "8FR",
-        "10FR",
-        "12FR",
-        "4FR",
-        "24FR"
-      ]
+      "sizes": []
     },
     {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Drainage Bag",
-      "slug": "enteral-drainage-bag",
-      "page": 9,
-      "description": "Tel :86 510 8273 3513 Fax:86 510 8273 0717 Loujin Industrial park,Shuofang,Wuxi,214143,China 07 No. 01 02 03 04 50ml 250ml 500ml 1000ml ENTERAL/ORAL MEASUREMENT DEHP FREE LATEX FREE is a trademark of GEDSA. ®",
-      "features": null,
+      "category": "Enteral Feeding Product",
+      "product_name": "Nasointestinal Feeding Tube",
+      "slug": "nasointestinal-tube",
+      "page": null,
+      "description": "A Nasointestinal Feeding Tube is a flexible medical device inserted through the nose and reaching the intestine. It's used to provide nutrition directly to the gut for patients who can't eat orally, ensuring proper nourishment.",
+      "features": [],
       "codes": [
         {
-          "code": "GCMEDICA",
-          "description": "ENTERPRISE LTD.(WUXI)"
+          "code": "GC1909C06",
+          "description": "Description: Fully radio-opaque tube, with guidewire. \u00b7 Size: 6FR"
         },
         {
-          "code": "HH1986A005",
-          "description": ""
+          "code": "GC1909C08",
+          "description": "Description: Fully radio-opaque tube, with guidewire. \u00b7 Size: 8FR"
         },
         {
-          "code": "HH1986A025",
-          "description": ""
+          "code": "GC1909C10",
+          "description": "Description: Fully radio-opaque tube, with guidewire. \u00b7 Size: 10FR"
         },
         {
-          "code": "HH1986A050",
-          "description": ""
+          "code": "GC1909C12",
+          "description": "Description: Fully radio-opaque tube, with guidewire. \u00b7 Size: 12FR"
         },
         {
-          "code": "HH1986A100",
-          "description": ""
+          "code": "GC2909C06",
+          "description": "Description: Fully radio-opaque tube, without guidewire. \u00b7 Size: 6FR"
+        },
+        {
+          "code": "GC2909C08",
+          "description": "Description: Fully radio-opaque tube, without guidewire. \u00b7 Size: 8FR"
+        },
+        {
+          "code": "GC2909C10",
+          "description": "Description: Fully radio-opaque tube, without guidewire. \u00b7 Size: 10FR"
+        },
+        {
+          "code": "GC2909C12",
+          "description": "Description: Fully radio-opaque tube, without guidewire. \u00b7 Size: 12FR"
         }
       ],
-      "sizes": [
-        "50ML",
-        "250ML",
-        "500ML",
-        "1000ML"
-      ]
-    },
-    {
-      "category": "Enteral Feeding",
-      "product_name": "Enteral Drainage Bag",
-      "slug": "enteral-drainage-bag",
-      "page": 9,
-      "description": "s to fit any compliant tubes is used for gastric drainage. The 500ml and 1000ml bags include integral tubing. The bags are made from soft EVA material. ®",
-      "features": null,
-      "codes": null,
-      "sizes": [
-        "500ML",
-        "1000ML"
-      ]
+      "sizes": []
     }
   ],
   "images": [
     {
-      "page": 3,
-      "filename": "polyurethane-nasogastric-feeding-tubes-01.png",
-      "slug": "polyurethane-nasogastric-feeding-tubes"
+      "slug": "enfit-feeding-tube",
+      "filename": "enfit-feeding-tube-01.webp"
     },
     {
-      "page": 3,
-      "filename": "polyurethane-nasogastric-feeding-tubes-02.png",
-      "slug": "polyurethane-nasogastric-feeding-tubes"
+      "slug": "nasogastric-tube-feeding",
+      "filename": "nasogastric-tube-feeding-01.webp"
     },
     {
-      "page": 3,
-      "filename": "polyurethane-nasogastric-feeding-tubes-03.png",
-      "slug": "polyurethane-nasogastric-feeding-tubes"
+      "slug": "nasogastric-tube",
+      "filename": "nasogastric-tube-01.webp"
     },
     {
-      "page": 4,
-      "filename": "polyurethane-y-port-nasogastric-feeding-tubes-01.png",
-      "slug": "polyurethane-y-port-nasogastric-feeding-tubes"
+      "slug": "ng-tube",
+      "filename": "ng-tube-01.webp"
     },
     {
-      "page": 4,
-      "filename": "polyurethane-y-port-nasogastric-feeding-tubes-02.png",
-      "slug": "polyurethane-y-port-nasogastric-feeding-tubes"
+      "slug": "duallumenstomachtube",
+      "filename": "duallumenstomachtube-01.webp"
     },
     {
-      "page": 4,
-      "filename": "polyurethane-y-port-nasogastric-feeding-tubes-03.png",
-      "slug": "polyurethane-y-port-nasogastric-feeding-tubes"
+      "slug": "nasointestinal-tube",
+      "filename": "nasointestinal-tube-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-01.png",
-      "slug": "enteral-syringes"
+      "slug": "nasointestinal-tube",
+      "filename": "nasointestinal-tube-02.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-02.png",
-      "slug": "enteral-syringes"
+      "slug": "enteral-placement-kits",
+      "filename": "enteral-placement-kits-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-03.png",
-      "slug": "enteral-syringes"
+      "slug": "enteral-drainage-bag",
+      "filename": "enteral-drainage-bag-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-04.png",
-      "slug": "enteral-syringes"
+      "slug": "enteral-feeding-bag",
+      "filename": "enteral-feeding-bag-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-05.png",
-      "slug": "enteral-syringes"
+      "slug": "enfit-enteral-syringes",
+      "filename": "enfit-enteral-syringes-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-06.png",
-      "slug": "enteral-syringes"
+      "slug": "feeding-tube-extension-set",
+      "filename": "feeding-tube-extension-set-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-07.png",
-      "slug": "enteral-syringes"
+      "slug": "feeding-tube-extension-set",
+      "filename": "feeding-tube-extension-set-02.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-08.png",
-      "slug": "enteral-syringes"
+      "slug": "enfit-connector",
+      "filename": "enfit-connector-01.webp"
     },
     {
-      "page": 5,
-      "filename": "enteral-syringes-09.png",
-      "slug": "enteral-syringes"
-    },
-    {
-      "page": 5,
-      "filename": "enteral-syringes-10.png",
-      "slug": "enteral-syringes"
-    },
-    {
-      "page": 6,
-      "filename": "enteral-extension-set-01.png",
-      "slug": "enteral-extension-set"
-    },
-    {
-      "page": 6,
-      "filename": "enteral-extension-set-02.png",
-      "slug": "enteral-extension-set"
-    },
-    {
-      "page": 6,
-      "filename": "enteral-extension-set-03.png",
-      "slug": "enteral-extension-set"
-    },
-    {
-      "page": 6,
-      "filename": "enteral-extension-set-04.png",
-      "slug": "enteral-extension-set"
-    },
-    {
-      "page": 6,
-      "filename": "enteral-extension-set-05.png",
-      "slug": "enteral-extension-set"
-    },
-    {
-      "page": 7,
-      "filename": "enteral-feeding-bag-set-01.png",
-      "slug": "enteral-feeding-bag-set"
-    },
-    {
-      "page": 7,
-      "filename": "enteral-feeding-bag-set-02.png",
-      "slug": "enteral-feeding-bag-set"
-    },
-    {
-      "page": 7,
-      "filename": "enteral-feeding-bag-set-03.png",
-      "slug": "enteral-feeding-bag-set"
-    },
-    {
-      "page": 7,
-      "filename": "enteral-feeding-bag-set-04.png",
-      "slug": "enteral-feeding-bag-set"
-    },
-    {
-      "page": 7,
-      "filename": "enteral-feeding-bag-set-05.png",
-      "slug": "enteral-feeding-bag-set"
-    },
-    {
-      "page": 7,
-      "filename": "enteral-feeding-bag-set-06.png",
-      "slug": "enteral-feeding-bag-set"
-    },
-    {
-      "page": 8,
-      "filename": "nasogastric-ryles-tubes-01.png",
-      "slug": "nasogastric-ryles-tubes"
-    },
-    {
-      "page": 8,
-      "filename": "nasogastric-ryles-tubes-02.png",
-      "slug": "nasogastric-ryles-tubes"
-    },
-    {
-      "page": 8,
-      "filename": "nasogastric-ryles-tubes-03.png",
-      "slug": "nasogastric-ryles-tubes"
-    },
-    {
-      "page": 9,
-      "filename": "enteral-drainage-bag-01.png",
-      "slug": "enteral-drainage-bag"
-    },
-    {
-      "page": 9,
-      "filename": "enteral-drainage-bag-02.png",
-      "slug": "enteral-drainage-bag"
-    },
-    {
-      "page": 9,
-      "filename": "enteral-drainage-bag-03.png",
-      "slug": "enteral-drainage-bag"
-    },
-    {
-      "page": 9,
-      "filename": "enteral-drainage-bag-04.png",
-      "slug": "enteral-drainage-bag"
+      "slug": "enfit-transition-connector",
+      "filename": "enfit-transition-connector-01.webp"
     }
   ],
-  "source_pdf": "Enteral Feeding Product.pdf",
-  "notes": "Images are named by product slug derived from title; multiple images per page are suffixed -01, -02, etc."
+  "source": "https://www.gcmedica.com/enteral-feeding-products",
+  "notes": "Synced from GCMedica online catalog on customer request; copy/spec tables pulled from individual detail pages."
 }

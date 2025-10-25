@@ -2,4330 +2,1686 @@
   "products": [
     {
       "category": "Fluid Management System",
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "page": 4,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "product_name": "Atraumatic Tip Yankauer",
+      "slug": "atraumatic-tip-yankauer",
+      "page": null,
+      "description": "The atraumatic tip yankauer is a specialized suction device. its uniquely designed atraumatic tip minimizes the risk of tissue damage during oral and nasal suction procedures, ensuring patient comfort and safety.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1207S6RW",
+          "description": "Size: 18FR \u00b7 Description: Atraumatic tip, short soft blue, with control vent"
+        },
+        {
+          "code": "GC1207S6RN",
+          "description": "Size: 18FR \u00b7 Description: Atraumatic tip, short soft blue, without control vent"
+        },
+        {
+          "code": "GC1207R6RW",
+          "description": "Size: 18FR \u00b7 Description: Atraumatic tip, short rigid green, with control"
+        },
+        {
+          "code": "GC1207R6RN",
+          "description": "Size: 18FR \u00b7 Description: Atraumatic tip, short rigid green, without control vent"
+        },
+        {
+          "code": "GC1207L6RW",
+          "description": "Size: 18FR \u00b7 Description: Atraumatic tip, long soft green, with control vent"
+        },
+        {
+          "code": "GC1207L6RN",
+          "description": "Size: 18FR \u00b7 Description: Atraumatic tip, long soft green, without control vent"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
     },
     {
       "category": "Fluid Management System",
-      "product_name": "Outer Canister",
+      "product_name": "Automatic Transfer of Fluids",
+      "slug": "automatic-transfer-of-fluids",
+      "page": null,
+      "description": "Automatic transfer of fluids is a revolutionary advancement in fluid - handling processes. It streamlines operations by eliminating manual labor, ensuring consistent, precise transfer, and reducing the risk of spills and contamination.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1997S10",
+          "description": "Description: Tandem tube for single use soft liner"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "BRUCITE Rigid Suction Canister",
+      "slug": "single-use-suction-canister",
+      "page": null,
+      "description": "The rigid suction canister is an essential component in medical suction systems. Crafted from tough materials, it firmly holds the suctioned fluids, resists external impacts, and ensures a stable and hygienic collection process.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1957D12",
+          "description": "Description: Mechanical shutoff valve, 1200cc"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Conductive Bubble Tubes",
+      "slug": "conductive-bubble-tubes",
+      "page": null,
+      "description": "The conductive bubble tube is a unique device. It conducts electricity and can detect bubbles. Ideal for medical and industrial applications, it ensures safety and accurate monitoring by signaling the presence of bubbles.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1307C05",
+          "description": "Description: 5.0mm ID, 3.0m"
+        },
+        {
+          "code": "GC1307C06",
+          "description": "Description: 6.0mm ID, 3.0m"
+        },
+        {
+          "code": "GC1307C07",
+          "description": "Description: 7.0mm ID, 3.0m"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Connecting Tubes"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Conductive Suction Connecting Tubes",
+      "slug": "conductive-suction-connecting-tubes",
+      "page": null,
+      "description": "The conductive suction connecting tube is a specialized medical device. It conducts electricity while enabling efficient fluid suction. Ideal for surgeries needing both suction and conductivity, it ensures seamless operation and enhanced safety.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1532L2L",
+          "description": "Description: 3m-8.0 \u00d7 5.0mm"
+        },
+        {
+          "code": "GC1532C2L",
+          "description": "Description: 3m-9.0 \u00d7 6.0mm"
+        },
+        {
+          "code": "GC1532D2L",
+          "description": "Description: 3m-10.0 \u00d7 7.0mm"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Connecting Tubes"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Cora Orthopedic Suction Set",
+      "slug": "orthopedic-suction-tube",
+      "page": null,
+      "description": "The orthopedic suction set is an essential companion in orthopedic surgeries. Comprising multiple components tailored to orthopedic scenarios, it can rapidly clear blood, debris, etc. during operations, keeping the surgical field clear and facilitating smooth procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "Extra filter",
+          "description": "GC1200A01K: W/O \u00b7 GC1200B01K: With"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01K: 15cm curved tip & 23cm curved tip (2 eyes) \u00b7 GC1200B01K: 15cm curved tip & 23cm curved tip (2 eyes)"
+        },
+        {
+          "code": "Drawing",
+          "description": null
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01K: GC1200C01K \u00b7 GC1200B01K: GC1200D01K"
+        },
+        {
+          "code": "Extra filter",
+          "description": "GC1200A01K: With \u00b7 GC1200B01K: With"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01K: 15cm curved tip & 23cm curved tip & 23cm straight tip (2 eyes) \u00b7 GC1200B01K: 15cm curved tip & 15cm straight tip (2 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01K: GC1200E01K \u00b7 GC1200B01K: GC1200F01K"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01K: 23cm curved tip & 23cm straight tip (2 eyes) \u00b7 GC1200B01K: 15cm curved tip (2 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01K: GC1200G11K \u00b7 GC1200B01K: GC1200G02K"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01K: 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip Two way tip (2 eyes) \u00b7 GC1200B01K: 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01K: GC1200H01K \u00b7 GC1200B01K: GC1200H02K"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01K: 15cm curved tip & 23cm curved tip & 28cm straight tip (2 eyes) \u00b7 GC1200B01K: 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01K: GC1200I01K"
+        },
+        {
+          "code": "Extra filter",
+          "description": "GC1200A01K: With"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01K: 23cm curved tip (2 eyes)"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Orthopedic Suction Set"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "EPIDOTE Rigid Suction Canister",
+      "slug": "medical-canister",
+      "page": null,
+      "description": "The Rigid Suction Canister is a cornerstone of medical suction setups. Constructed from durable materials, it's designed to endure heavy - duty use. Its robust build effectively holds suctioned fluids and withstands knocks, maintaining a safe and reliable fluid collection process.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1957B08",
+          "description": "Description: Floating shutoff valve, 800cc"
+        },
+        {
+          "code": "GC1957B12",
+          "description": "Description: Floating shutoff valve, 1200cc"
+        },
+        {
+          "code": "GC1957S08",
+          "description": "Description: Floating shutoff valve, 800cc, 1.8m+46cm tubing kit"
+        },
+        {
+          "code": "GC1957S12",
+          "description": "Description: Floating shutoff valve, 1200cc, 1.8m+46cm tubing kit"
+        },
+        {
+          "code": "GC1957C08",
+          "description": "Description: Non-mechanical shutoff valve, 800cc"
+        },
+        {
+          "code": "GC1957C12",
+          "description": "Description: Non-mechanical shutoff valve, 1200cc"
+        },
+        {
+          "code": "GC1957T08",
+          "description": "Description: Non-mechanical shutoff valve, 800cc, 1.8m+46cm tubing kit"
+        },
+        {
+          "code": "GC1957T12",
+          "description": "Description: Non-mechanical shutoff valve, 1200cc, 1.8m+46cm tubing kit"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "EPIDOTE Rigid Suction Canister with Filter Kit",
+      "slug": "suction-canister-with-filter-kit",
+      "page": null,
+      "description": "The rigid suction canister with filter kit is a comprehensive solution for medical suction needs. Its sturdy body ensures reliable fluid containment, while the filter kit traps particles, enhancing hygiene and safeguarding the suction system.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1957R08",
+          "description": "Description: Including 800cc suction canister, 1.8m suction tubing, filter"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Gloria Orthopedic Suction Set",
+      "slug": "orthopedic-suction-set",
+      "page": null,
+      "description": "The orthopedic suction set is a meticulously designed medical ensemble for orthopedic surgeries. It effectively eliminates fluids and debris, maintaining a clear surgical view and contributing to the success of orthopedic operations.",
+      "features": [],
+      "codes": [
+        {
+          "code": "Extra filter",
+          "description": "GC1200A01: W/O \u00b7 GC1200B01: With"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01: 15cm curved tip & 23cm curved tip (2 eyes) \u00b7 GC1200B01: 15cm curved tip & 23cm curved tip (2 eyes)"
+        },
+        {
+          "code": "Drawing",
+          "description": null
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01: GC1200C01 \u00b7 GC1200B01: GC1200D01"
+        },
+        {
+          "code": "Extra filter",
+          "description": "GC1200A01: With \u00b7 GC1200B01: With"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01: 15cm curved tip & 23cm curved tip & 23cm straight tip (2 eyes) \u00b7 GC1200B01: 15cm curved tip & 15cm straight tip (2 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01: GC1200E01 \u00b7 GC1200B01: GC1200F01"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01: 23cm curved tip & 23cm straight tip (2 eyes) \u00b7 GC1200B01: 15cm curved tip (2 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01: GC1200G11 \u00b7 GC1200B01: GC1200G02"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01: 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip Two way tip (2 eyes) \u00b7 GC1200B01: 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01: GC1200H01 \u00b7 GC1200B01: GC1200H02"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01: 15cm curved tip & 23cm curved tip & 28cm straight tip (2 eyes) \u00b7 GC1200B01: 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes)"
+        },
+        {
+          "code": "Product code",
+          "description": "GC1200A01: GC1200I01"
+        },
+        {
+          "code": "Extra filter",
+          "description": "GC1200A01: With"
+        },
+        {
+          "code": "Tip",
+          "description": "GC1200A01: 23cm curved tip (2 eyes)"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Orthopedic Suction Set"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "HUMITE Rigid Suction Canister",
+      "slug": "rigid-canister",
+      "page": null,
+      "description": "The rigid suction canister is a stalwart in medical suction setups. Constructed from hard - wearing materials, it firmly holds suctioned fluids. Its robust build withstands pressure and accidental knocks, ensuring long - term, reliable use.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1957H08",
+          "description": "Description: Floating shutoff valve"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Male Connector Yankauer Suction Tip",
+      "slug": "male-connector-yankauer-suction-tip",
+      "page": null,
+      "description": "Male connector yankauer suction tip is a must-have in medical suction. Its male connector enables quick, secure attachment to suction systems, and it efficiently clears fluids, ideal for diverse medical scenarios.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1257N2N",
+          "description": "Description: Plain tip 7.3mm without control vent, no lateral eyes \u00b7 Suction tip: Plain tip O.D 7.3mm \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1255E1N",
+          "description": "Description: Plain tip 6.6mm without control vent, with lateral eyes \u00b7 Suction tip: Plain tip O.D 6.6mm with 4 relieving eyes \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1257N1N",
+          "description": "Description: Tapered tip without control vent, no lateral eyes \u00b7 Suction tip: Tapered tip \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1257N1N1",
+          "description": "Description: Tapered tip without control vent, with lateral eyes \u00b7 Suction tip: Tapered tip with 2 relieving eyes \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: 2 eyes"
+        },
+        {
+          "code": "GC1256J1N",
+          "description": "Description: Flattened tip without control vent, no lateral eyes \u00b7 Suction tip: Flattened \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1276A6RN",
+          "description": "Description: Atraumatic tip without control vent, no lateral eyes \u00b7 Suction tip: Atraumatic tip \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Megaflow Yankauer Handle with Suction Connecting Tube",
+      "slug": "megaflow-yankauer-handle-with-suction-connecting-tube",
+      "page": null,
+      "description": "MegaFlow suction handles and sets are suction handles or sets for the interoperative removal of blood and fluids during open surgery.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1245E1W40CC01",
+          "description": "Description: Plain tip 10mm with control vent and lateral eyes, Curved 150\u00b0"
+        },
+        {
+          "code": "GC1245E1N40CC01",
+          "description": "Description: Plain tip 10mm without control vent, with lateral eyes, Curved 150\u00b0"
+        },
+        {
+          "code": "GC1006S1CK38C01",
+          "description": "Description: Yankauer suction set, OD11.7mm, 3.5m connecting tube + GC1245E1W-30"
+        },
+        {
+          "code": "GC1006S1CK39C01",
+          "description": "Description: Yankauer suction set, OD11.7mm, 3.5m connecting tube + GC1245E1N-30"
+        },
+        {
+          "code": "GC1245N1W40CC01",
+          "description": "Description: Plain tip 10mm with control vent and lateral eye, straight"
+        },
+        {
+          "code": "GC1245N1N40CC01",
+          "description": "Description: Plain tip 10mm without control vent, with lateral eye, straight"
+        },
+        {
+          "code": "GC1006S1CK40C01",
+          "description": "Description: Yankauer suction set, OD11.7mm, 3.5m connecting tube + GC1245N1W-30"
+        },
+        {
+          "code": "GC1006S1CK41C01",
+          "description": "Description: Yankauer suction set, OD11.7mm, 3.5m connecting tube + GC1245N1N-30"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Mona Orthopedic Suction Set",
+      "slug": "orthopedic-suction-tip",
+      "page": null,
+      "description": "The orthopedic suction set is an essential collection of tools for orthopedic surgeries. Specifically designed to handle fluids, it ensures a clear surgical field, contributing to successful orthopedic procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1200O01",
+          "description": "Description: Short straight tip \u00b7 Tip size: 7.0mm OD"
+        },
+        {
+          "code": "GC1200P01",
+          "description": "Description: 165\u00b0 Short curved tip \u00b7 Tip size: 7.0mm OD"
+        },
+        {
+          "code": "GC1200Q01",
+          "description": "Description: Long straight tip \u00b7 Tip size: 8.5mm OD"
+        },
+        {
+          "code": "GC1200R01",
+          "description": "Description: 140\u00b0 Long curved tip \u00b7 Tip size: 8.5mm OD"
+        },
+        {
+          "code": "GC1200S01",
+          "description": "Description: 140\u00b0 Long curved tip \u00b7 Tip size: 7.0mm OD"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Orthopedic Suction Set"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "OMPHACITE Rigid Suction Canister",
+      "slug": "suction-canister-setup",
+      "page": null,
+      "description": "Engineered for reliable performance in medical settings, the Rigid Suction Canister is made from sturdy materials that resist damage. It securely stores suctioned fluids, providing a stable and hygienic solution for efficient fluid management during procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1957A12",
+          "description": "Description: Non-mechanical shutoff valve, 1200cc"
+        },
+        {
+          "code": "GC1957A20",
+          "description": "Description: Non-mechanical shutoff valve, 2000cc"
+        },
+        {
+          "code": "GC1957A30",
+          "description": "Description: Non-mechanical shutoff valve, 3000cc"
+        },
+        {
+          "code": "GC1957Q12",
+          "description": "Description: GC1957A12, With 180cm-7.5mm \u00d7 5.0mm tubing kit"
+        },
+        {
+          "code": "GC1957W12",
+          "description": "Description: GC1957A12, With 270cm-10.0mm \u00d7 6.4mm tubing kit"
+        },
+        {
+          "code": "GC1957Q20",
+          "description": "Description: GC1957A20, With 180cm-7.5mm \u00d7 5.0mm tubing kit"
+        },
+        {
+          "code": "GC1957E12",
+          "description": "Description: 1200cc, directly connected to the pressure regulating valve"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "On/off Yankauer Suction Handle with Crown Tip",
+      "slug": "yankauer-handle-with-crown-tip",
+      "page": null,
+      "description": "The yankauer handle with crown tip features an ergonomic handle for easy gripping. Its crown-shaped tip effectively clears secretions from hard-to-reach areas, ensuring patient safety during procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1238Y3W",
+          "description": "Description: Curved 155\u00b0, crown tip \uff0cwith control vent"
+        },
+        {
+          "code": "GC1239Y3W",
+          "description": "Description: Curved 155\u00b0, plain tip,with control vent"
+        },
+        {
+          "code": "GC1263Y3W",
+          "description": "Description: Curved 155\u00b0, bulb tip,with control vent"
+        },
+        {
+          "code": "GC1238M3W",
+          "description": "Description: Curved 140\u00b0, crown tip \uff0cwith control vent"
+        },
+        {
+          "code": "GC1239M3W",
+          "description": "Description: Curved 140\u00b0, plain tip\uff0cwith control vent"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "On/off Yankauer Suction Handle with Plain Tip",
+      "slug": "onoff-yankauer-suction-handle-with-plain-tip",
+      "page": null,
+      "description": "The yankauer suction handle with on/off switch simplifies medical suction operations. its ergonomic design ensures a comfortable grip, and the integrated on/off switch allows for quick control, enhancing the efficiency of suction procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1238Y3W",
+          "description": "Description: Curved 155\u00b0, crown tip\uff0cwith control vent"
+        },
+        {
+          "code": "GC1239Y3W",
+          "description": "Description: Curved 155\u00b0, plain tip ,with control vent"
+        },
+        {
+          "code": "GC1263Y3W",
+          "description": "Description: Curved 155\u00b0, bulb tip,with control vent"
+        },
+        {
+          "code": "GC1238M3W",
+          "description": "Description: Curved 140\u00b0, crown tip\uff0cwith control vent"
+        },
+        {
+          "code": "GC1239M3W",
+          "description": "Description: Curved 140\u00b0, plain tip \uff0cwith control vent"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Orthopedic Suction Set with Suction Connecting Tube",
+      "slug": "orthopedic-suction-set-with-suction-connecting-tube",
+      "page": null,
+      "description": "The orthopedic suction set with suction connecting tube is a specialized medical kit. It comes with a suction connecting tube for seamless fluid removal. Ideal for orthopedic surgeries, it ensures a clean and efficient operating field.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1006B1U",
+          "description": "Description: Yankauer suction set, OD8.0mm, 3.0m connecting tube + GC1200L02K"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Orthopedic Suction Set"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Outer Suction Canister",
       "slug": "outer-canister",
-      "page": 4,
+      "page": null,
+      "description": "The outer suction canister is an essential part of suction systems. It's designed to be robust and withstand external forces. This container securely holds the suctioned fluids, ensuring a hygienic and organized medical process.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1962A10",
+          "description": "Description: 1000ml, with internal on-off valve"
+        },
+        {
+          "code": "GC1962A15",
+          "description": "Description: 1500ml, with internal on-off valve"
+        },
+        {
+          "code": "GC1962A30",
+          "description": "Description: 3000ml, with internal on-off valve"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Poole Suction Handle",
+      "slug": "poole-suction-handle",
+      "page": null,
+      "description": "The poole suction handle features an ergonomic design that offers a comfortable grip, facilitating easy operation. It's engineered for efficient suction, making it a staple in various medical procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1243E6N",
+          "description": "Description: Flexible sheath, curved"
+        },
+        {
+          "code": "GC1243N6N",
+          "description": "Description: Flexible sheath"
+        },
+        {
+          "code": "GC1243N5N",
+          "description": "Description: Rigid sheath with 132 eyes for rapid suction"
+        },
+        {
+          "code": "GC1243N7N",
+          "description": "Description: X-ray visible and removable sheath"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Reusable Metal Holder for Reusable Canister",
+      "slug": "reusable-metal-holder-for-reusable-canister",
+      "page": null,
+      "description": "The reusable metal holder for reusable canister is a practical and eco - friendly accessory. Crafted from durable metal, it firmly supports the reusable canister, extending its lifespan and promoting sustainable medical practices.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1993D01",
+          "description": "Description: Desk-Flat"
+        },
+        {
+          "code": "GC1993D02",
+          "description": "Description: wall-mounted"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Roll Stand",
+      "slug": "canister-roll-stand",
+      "page": null,
+      "description": "The suction canister roll stand provides a mobile, ergonomic solution for mounting transporting medical suction canisters. Featuring adjustable height, sturdy stainless-steel construction, and lockable swivel casters, it ensures stable positioning and effortless maneuverability. Universal canister brackets and integrated drip tray simplify setup and maintenance, enhancing workflow efficiency and patient safety.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1993A01",
+          "description": "Description: Height 750mm"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Roll Stand With Pressure Gauge",
+      "slug": "roll-stand-with-pressure-gauge",
+      "page": null,
       "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1993E01U01",
+          "description": "Description: Height 750mm, with pressure gauge"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "SPINEL Soft Liner",
+      "slug": "spinel-soft-liner",
+      "page": null,
+      "description": "Closed system ensures aseptic integrity while maintaining continuous vacuum, enabling rapid, risk-free canister swaps.The intuitive design of the product reduces operating time, thereby improving overall work efficiency...",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1941F10",
+          "description": "Description: 1000ml, with solidifier"
+        },
+        {
+          "code": "GC1941F20",
+          "description": "Description: 2000ml, with solidifier"
+        },
+        {
+          "code": "GC1941F30",
+          "description": "Description: 3000ml, with solidifier"
+        },
+        {
+          "code": "GC1941F10N",
+          "description": "Description: 1000ml"
+        },
+        {
+          "code": "GC1941F20N",
+          "description": "Description: 2000ml"
+        },
+        {
+          "code": "GC1941F30N",
+          "description": "Description: 3000ml"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Single Use Soft Suction Liner",
+      "slug": "single-use-soft-suction-liner",
+      "page": null,
+      "description": "The single use soft suction liner is a specialized, disposable product. Crafted from soft materials, it ensures gentle suction during medical procedures. Its single - use nature safeguards against cross - contamination.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1941B10",
+          "description": "Description: Soft Liner, 1000ml, with solidifier"
+        },
+        {
+          "code": "GC1941B15",
+          "description": "Description: Soft Liner, 1500ml, with solidifier"
+        },
+        {
+          "code": "GC1941B30",
+          "description": "Description: Soft Liner, 3000ml, with solidifier"
+        },
+        {
+          "code": "GC1941B10N",
+          "description": "Description: Soft Liner, 1000ml"
+        },
+        {
+          "code": "GC1941B15N",
+          "description": "Description: Soft Liner, 1500ml"
+        },
+        {
+          "code": "GC1941B30N",
+          "description": "Description: Soft Liner, 3000ml"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
     },
     {
       "category": "Fluid Management System",
       "product_name": "Soft Liners with Suction Tubing and Vacuum Control Adaptor",
       "slug": "soft-liners-with-suction-tubing-and-vacuum-control-adaptor",
-      "page": 2,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "page": 5,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "page": 6,
-      "description": "● RIGID CANISTERS",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "HUMITE Canister",
-      "slug": "humite-canister",
-      "page": 7,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "EPIDOTE Canister with Filter Kit",
-      "slug": "epidote-canister-with-filter-kit",
-      "page": 7,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "BRUCITE Canister",
-      "slug": "brucite-canister",
-      "page": 8,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "EPIDOTE Canister",
-      "slug": "epidote-canister",
-      "page": 8,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "OMPHACITE Canister",
-      "slug": "omphacite-canister",
-      "page": 9,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Reusable Metal Holder For Reusable Canister",
-      "slug": "reusable-metal-holder-for-reusable-canister",
-      "page": 2,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "page": 10,
-      "description": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -01 - 08 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -01-04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -02 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -02 - - - - - -03 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -03 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -04 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -05-08 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -05 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -05 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -06 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -07 - - - - - - - - - - - - - - - - - - - -08 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -08 01 FLUID MANAGEMENT FLUID MANAGEMENT 01 Options include rigid suction canister and replaceable suction liners with reusable outer canister. A variety of accessories and hardware are also available to allow the use of suction canisters and liners in virtually all areas of a facility including Patient Rooms, Operating Rooms, CCU, ICU, Post-Op, and Recovery, as well as on portable suction equipment. OUTER CANISTER & LINER Automatic Transfer of Fluids Universal Manifold Tubing",
-      "features": null,
+      "page": null,
+      "description": "Soft Liners with Suction Tubing and Vacuum Control Adaptor are a well - designed medical set. The soft liners ensure gentle handling during suction. Paired with suction tubing for easy fluid transfer, and a vacuum control adaptor for precise regulation, they offer a convenient and hygienic solution for bodily fluid collection in medical procedures.",
+      "features": [],
       "codes": [
         {
-          "code": "GCMedica",
-          "description": "offers several fluid collection solutions."
+          "code": "GC3041R11N",
+          "description": "Description: 1.0L Soft Liner + 6mm \u00d7 1.8m tubing and adult stop"
+        },
+        {
+          "code": "GC3041R12N",
+          "description": "Description: 1.5L Soft Liner + 6mm \u00d7 1.8m tubing and adult stop"
+        },
+        {
+          "code": "GC3041R13N",
+          "description": "Description: 3.0L Soft Liner + 6mm \u00d7 3m tubing and adult stop"
+        },
+        {
+          "code": "GC3041R21N",
+          "description": "Description: 1.0L Soft Liner + 6mm \u00d7 1.8m tubing and pediatric stop"
+        },
+        {
+          "code": "GC3041R22N",
+          "description": "Description: 1.5L Soft Liner + 6mm \u00d7 1.8m tubing and pediatric stop"
+        },
+        {
+          "code": "GC3041R11",
+          "description": "Description: 1.0L Soft Liner + 6mm \u00d7 1.8m tubing and adult stop, with solidifier"
+        },
+        {
+          "code": "GC3041R12",
+          "description": "Description: 1.5L Soft Liner + 6mm \u00d7 1.8m tubing and adult stop, with solidifier"
+        },
+        {
+          "code": "GC3041R13",
+          "description": "Description: 3.0L Soft Liner + 6mm \u00d7 3m tubing and adult stop, with solidifier"
+        },
+        {
+          "code": "GC3041R21",
+          "description": "Description: 1.0L Soft Liner + 6mm \u00d7 1.8m tubing and pediatric stop, with solidifier"
+        },
+        {
+          "code": "GC3041R22",
+          "description": "Description: 1.5L Soft Liner + 6mm \u00d7 1.8m tubing and pediatric stop, with solidifier"
         }
       ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "page": 4,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "page": 6,
-      "description": "Reusable Canister and Liner System",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "page": 4,
-      "description": "02 FLUID MANAGEMENT",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "page": 4,
-      "description": "· Available sizes includes 1000ml, 1500ml, 3000ml · One-way valve on patient port allows increased security",
-      "features": [
-        "Available sizes includes 1000ml, 1500ml, 3000ml",
-        "One-way valve on patient port allows increased security"
-      ],
-      "codes": null,
-      "sizes": [
-        "1000ML",
-        "1500ML",
-        "3000ML"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "page": 4,
-      "description": "· Available sizes includes 1000ml, 1500ml, 3000ml · Assembled with internal on-off valve · Eco-friendly reusable Solidifier Pack Soft Liner, 1000ml, with solidifier Soft Liner, 1500ml, with solidifier Soft Liner, 3000ml, with solidifier Soft Liner, 1000ml Soft Liner, 1500ml Soft Liner, 3000ml 1000ml, with internal on-off valve 1500ml, with internal on-off valve 3000ml, with internal on-off valve 03 FLUID MANAGEMENT Adult Pediatric Solidifier Pack Soft Liners with Suction Tubing and",
-      "features": [
-        "Available sizes includes 1000ml, 1500ml, 3000ml",
-        "Assembled with internal on-off valve",
-        "Eco-friendly reusable",
-        "Solidifier Pack"
-      ],
-      "codes": [
-        {
-          "code": "HH1941B10",
-          "description": ""
-        },
-        {
-          "code": "HH1941B15",
-          "description": ""
-        },
-        {
-          "code": "HH1941B30",
-          "description": ""
-        },
-        {
-          "code": "HH1941B10N",
-          "description": ""
-        },
-        {
-          "code": "HH1941B15N",
-          "description": ""
-        },
-        {
-          "code": "HH1941B30N",
-          "description": ""
-        },
-        {
-          "code": "HH1962A10",
-          "description": ""
-        },
-        {
-          "code": "HH1962A15",
-          "description": ""
-        },
-        {
-          "code": "HH1962A30",
-          "description": ""
-        },
-        {
-          "code": "HH3042A01",
-          "description": ""
-        },
-        {
-          "code": "HH3042A02",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "1000ML",
-        "1500ML",
-        "3000ML"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "page": 5,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "page": 5,
-      "description": "1.0L Soft Liner + 6mm × 1.8m tubing and adult stop 1.5L Soft Liner + 6mm × 1.8m tubing and adult stop 3.0L Soft Liner + 6mm × 3m tubing and adult stop 1.0L Soft Liner + 6mm × 1.8m tubing and pediatric stop 1.5L Soft Liner + 6mm × 1.8m tubing and pediatric stop 1.0L Soft Liner + 6mm × 1.8m tubing and adult stop, with solidifier 1.5L Soft Liner + 6mm × 1.8m tubing and adult stop, with solidifier 3.0L Soft Liner + 6mm × 3m tubing and adult stop, with solidifier 1.0L Soft Liner + 6mm × 1.8m tubing and pediatric stop, with solidifier 1.5L Soft Liner + 6mm × 1.8m tubing and pediatric stop, with solidifier 04 FLUID MANAGEMENT",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH3041R11N",
-          "description": ""
-        },
-        {
-          "code": "HH3041R12N",
-          "description": ""
-        },
-        {
-          "code": "HH3041R13N",
-          "description": ""
-        },
-        {
-          "code": "HH3041R21N",
-          "description": ""
-        },
-        {
-          "code": "HH3041R22N",
-          "description": ""
-        },
-        {
-          "code": "HH3041R11",
-          "description": ""
-        },
-        {
-          "code": "HH3041R12",
-          "description": ""
-        },
-        {
-          "code": "HH3041R13",
-          "description": ""
-        },
-        {
-          "code": "HH3041R21",
-          "description": ""
-        },
-        {
-          "code": "HH3041R22",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "1.0L",
-        "6MM",
-        "1.5L",
-        "3.0L"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "page": 6,
-      "description": "Automatic Transfer of Fluids",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "page": 6,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "page": 6,
-      "description": "Plastic wall mount Tandem tube for single use soft liner Roll stand Two canisters manifold tubing Three canisters manifold tubing Four canisters manifold tubing 05 FLUID MANAGEMENT",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1993B01",
-          "description": ""
-        },
-        {
-          "code": "HH1997S10",
-          "description": ""
-        },
-        {
-          "code": "HH1993A01",
-          "description": ""
-        },
-        {
-          "code": "HH1997A01",
-          "description": ""
-        },
-        {
-          "code": "HH1997A02",
-          "description": ""
-        },
-        {
-          "code": "HH1997A03",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "HUMITE Canister",
-      "slug": "humite-canister",
-      "page": 7,
-      "description": "RIGID CANISTERS",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "EPIDOTE Canister with Filter Kit",
-      "slug": "epidote-canister-with-filter-kit",
-      "page": 7,
-      "description": "· 800cc disposable suction canister · Lids contain multiple ports for versatility, universal ports and · Self-sealing lid provides leak-free seal · Frosted panel provides writing area when needed, large, easy to read graduations Including 800cc suction canister, 1.8m suction tubing, filter Floating shutoff valve 06 FLUID MANAGEMENT",
-      "features": [
-        "800cc disposable suction canister",
-        "Lids contain multiple ports for versatility, universal ports and"
-      ],
-      "codes": [
-        {
-          "code": "HH1957R08",
-          "description": ""
-        },
-        {
-          "code": "HH1957H08",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "800CC"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "BRUCITE Canister",
-      "slug": "brucite-canister",
-      "page": 8,
-      "description": "· Self-sealing lid provides leak-free seal · Mechanical shutoff valve prevents overflow and contami- nation · Single use",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "EPIDOTE Canister",
-      "slug": "epidote-canister",
-      "page": 8,
-      "description": "· Both floating shutoff valve lid or non-mechanical shut off lid are available · Available with tubing kit, including a piece of Tandem tube and a piece of 1800mm suction connecting tube · Elbow adaptors allow tubing to connect at right angles to help prevent kinking and impeded fluid flow · 800cc and 1200cc are available Mechanical shutoff valve Floating shutoff valve, 800cc Floating shutoff valve, 1200cc Floating shutoff valve, 800cc, 1.8m+46cm tubing kit Floating shutoff valve, 1200cc, 1.8m+46cm tubing kit Non-mechanical shutoff valve, 800cc Non-mechanical shutoff valve, 1200cc Non-mechanical shutoff valve, 800cc, 1.8m+46cm tubing kit Non-mechanical shutoff valve, 1200cc, 1.8m+46cm tubing kit 07 FLUID MANAGEMENT",
-      "features": [
-        "Product code"
-      ],
-      "codes": [
-        {
-          "code": "HH1957D12",
-          "description": ""
-        },
-        {
-          "code": "HH1957B08",
-          "description": ""
-        },
-        {
-          "code": "HH1957B12",
-          "description": ""
-        },
-        {
-          "code": "HH1957S08",
-          "description": ""
-        },
-        {
-          "code": "HH1957S12",
-          "description": ""
-        },
-        {
-          "code": "HH1957C08",
-          "description": ""
-        },
-        {
-          "code": "HH1957C12",
-          "description": ""
-        },
-        {
-          "code": "HH1957T08",
-          "description": ""
-        },
-        {
-          "code": "HH1957T12",
-          "description": ""
-        },
-        {
-          "code": "HH1957E12",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "1800MM",
-        "800CC",
-        "1200CC"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "OMPHACITE Canister",
-      "slug": "omphacite-canister",
-      "page": 9,
-      "description": "· Various volume can meet the demand of different medi- cal scenarios · The lid includes accessory and orthopedic ports · The lid is equipped with an automatic shut-off valve, which helps prevent cross contamination between the regulator and the wall vacuum outlet · Locking the lid helps with proper handling of infectious liquid medical waste and improves worker safety · 90° adapters allow tubing to be connected at right angles, helping to prevent kinks and restriction of fluid flow Non-mechanical shutoff valve, 1200cc Non-mechanical shutoff valve, 2000cc Non-mechanical shutoff valve, 3000cc With 180cm-7.5mm × 5.0mm tubing kit With 270cm-10.0mm × 6.4mm tubing kit With 180cm-7.5mm × 5.0mm tubing kit 1200cc, directly connected to the Pressure Regulating Valve Picture ID14.7cm, H13.5cm, adapter for Brucite Canister ID12.2cm, H13.5cm, adapter for Epidote Canister ID11.8cm, H13.5cm, adapter for Omphacite Canister Brucite Canister Epidote Canister Omphacite Canister 08 FLUID MANAGEMENT",
-      "features": [
-        "Product code"
-      ],
-      "codes": [
-        {
-          "code": "HH1957A12",
-          "description": ""
-        },
-        {
-          "code": "HH1957A20",
-          "description": ""
-        },
-        {
-          "code": "HH1957A30",
-          "description": ""
-        },
-        {
-          "code": "HH1957Q12",
-          "description": ""
-        },
-        {
-          "code": "HH1957W12",
-          "description": ""
-        },
-        {
-          "code": "HH1957Q20",
-          "description": ""
-        },
-        {
-          "code": "HH1957E12",
-          "description": ""
-        },
-        {
-          "code": "HH1957A12,",
-          "description": ""
-        },
-        {
-          "code": "HH1957A20,",
-          "description": ""
-        },
-        {
-          "code": "HH1993C01",
-          "description": ""
-        },
-        {
-          "code": "HH1993C02",
-          "description": ""
-        },
-        {
-          "code": "HH1993C03",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "1200CC",
-        "2000CC",
-        "3000CC",
-        "7.5MM",
-        "5.0MM",
-        "10.0MM",
-        "6.4MM"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "page": 10,
-      "description": "147MM 121MM 117MM Reusable Metal Holder For Reusable Canister · Excellent corrosion resistance · Strong structure, stronger load-bearing capacity · Reusable. Easy to clean · It can be customized according to the specific needs of the hospital and the size of the waste liquid collection device Desk-Flat wall-mounted PVC FREE PRODUCTS AVAILABLE 02 SUCTION DEVICES - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -09 - 19 ●",
-      "features": [
-        "Product code"
-      ],
-      "codes": [
-        {
-          "code": "HH1993D01",
-          "description": ""
-        },
-        {
-          "code": "HH1993D02",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "147MM",
-        "121MM",
-        "117MM"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "FLEXI-CLEAR YANKAUER HANDLE",
-      "slug": "flexi-clear-yankauer-handle",
-      "page": 11,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "page": 12,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "page": 13,
-      "description": "●",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "page": 14,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "page": 14,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "page": 14,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "page": 15,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "page": 15,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "page": 16,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "page": 16,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "page": 17,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "page": 19,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Male Connector Suction Tip",
-      "slug": "male-connector-suction-tip",
-      "page": 20,
-      "description": "●",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "POOLE  SUCTION  HANDLE",
-      "slug": "poole-suction-handle",
-      "page": 21,
-      "description": "● SUCTION PROBE",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Suction Probe with Male Connector",
-      "slug": "suction-probe-with-male-connector",
-      "page": 22,
-      "description": "- - - - - - - - - - - - - - - - - - - - - -09-10 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -09 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -10 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -11-17 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -11 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -11 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -12 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -12 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -13 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -13 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -14-15 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -16 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -17 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -18 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -19 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -19 Mini Fine Super Tip (Two eyes) Maxi (Six eyes) Short Mini Super Tip (No side eyes) Midi/Maxi Super Tip (Six eyes) Short Mini Super Tip (Two eyes) Maxi Plus (Four eyes) 09 SUCTION DEVICES",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "page": 12,
-      "description": "FLEXI-CLEAR YANKAUER HANDLE The Flexi-Clear Yankauer Handle is mainly used for suction therapy in surgical operation, which belongs to the part of the surgical suction assembled. Available as a set, pre-attached to 2 or 3 metre tubes. These instru- ments are single use and sterile. Available in various tip styles: Mini fine super, Short mini super, Maxi super and Maxi tip. · Provide suction flexibility with clarity and visualization · Rigid tip or flexible tip for different application · Non-breakable flexible suction instrument · Smooth inner lumen, come in various sizes & tip options · Double sterile packaging in individual peel pouches 12FR 12FR 15FR 15FR 15FR 18FR 18FR 22FR 22FR 28FR 28FR Mini fine super tip with two lateral eyes, with control vent Mini fine super tip with two lateral eyes, without control vent Short mini super tip with no lateral eyes, with control vent Short mini super tip with no lateral eyes, without control vent Short mini super tip with two lateral eyes, without control vent Midi super tip with six lateral eyes, with control vent Midi super tip with six lateral eyes, without control vent Maxi super tip with six lateral eyes, with control vent Maxi super tip with six lateral eyes, without control vent Maxi plus tip with four lateral eyes, with control vent Maxi plus tip with four lateral eyes, without control vent SUCTION DEVICES 02 10 SUCTION DEVICES 18FR 18FR 18FR 18FR 18FR 18FR Atraumatic tip, short soft blue, with control vent Atraumatic tip, short soft blue, without control vent Atraumatic tip, short rigid green, with control Atraumatic tip, short rigid green, without control vent Atraumatic tip, long soft green, with control vent Atraumatic tip, long soft green, without control vent",
-      "features": [
-        "Provide suction flexibility with clarity and visualization",
-        "Rigid tip or flexible tip for different application",
-        "Non-breakable flexible suction instrument"
-      ],
-      "codes": [
-        {
-          "code": "HH1202B4W1",
-          "description": ""
-        },
-        {
-          "code": "HH1202B4N1",
-          "description": ""
-        },
-        {
-          "code": "HH1202A5W1",
-          "description": ""
-        },
-        {
-          "code": "HH1202A5N1",
-          "description": ""
-        },
-        {
-          "code": "HH1202B5N1",
-          "description": ""
-        },
-        {
-          "code": "HH1202F6W1",
-          "description": ""
-        },
-        {
-          "code": "HH1202F6N1",
-          "description": ""
-        },
-        {
-          "code": "HH1202F7W1",
-          "description": ""
-        },
-        {
-          "code": "HH1202F7N1",
-          "description": ""
-        },
-        {
-          "code": "HH1202D9W2",
-          "description": ""
-        },
-        {
-          "code": "HH1202D9N2",
-          "description": ""
-        },
-        {
-          "code": "HH1207S6RW",
-          "description": ""
-        },
-        {
-          "code": "HH1207S6RN",
-          "description": ""
-        },
-        {
-          "code": "HH1207R6RW",
-          "description": ""
-        },
-        {
-          "code": "HH1207R6RN",
-          "description": ""
-        },
-        {
-          "code": "HH1207L6RW",
-          "description": ""
-        },
-        {
-          "code": "HH1207L6RN",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "12FR",
-        "15FR",
-        "18FR",
-        "22FR",
-        "28FR"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "page": 13,
-      "description": "Short Soft Short Rigid Long Soft 11 SUCTION DEVICES",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "page": 14,
-      "description": "Suction Handles deliver performance and maneuverability. Each Yankauer tip comes with large crush resistant star lumen tubing for maximum suction performance and the advantage of continuous, large flow paths to prevent clogging. · Non-vented / Vented · One-piece design, made from a blend of clear, shatterproof and non-metamorphosed plastic · Edges are smooth · Smooth and uniform inner surface for rapid evacuation, fit securely on all types of tube · Single use only · Sterile",
-      "features": [
-        "Non-vented / Vented",
-        "One-piece design, made from a blend of clear, shatterproof and non-metamorphosed plastic",
-        "Edges are smooth",
-        "Smooth and uniform inner surface for rapid evacuation, fit securely on all types of tube",
-        "Single use only",
-        "Sterile"
-      ],
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "page": 14,
-      "description": "On/off Switch Curved 155°, crown tip，with control vent Curved 155°, plain tip,with control vent Curved 155°, bulb tip,with control vent Curved 140°, crown tip，with control vent Curved 140°, plain tip，with control vent Crown Tip Plain Tip",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1238Y3W",
-          "description": ""
-        },
-        {
-          "code": "HH1239Y3W",
-          "description": ""
-        },
-        {
-          "code": "HH1263Y3W",
-          "description": ""
-        },
-        {
-          "code": "HH1238M3W",
-          "description": ""
-        },
-        {
-          "code": "HH1239M3W",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "page": 14,
-      "description": "Curved 120°~180°, without control vent, flexible Curved 120°~180°, with control vent, flexible Curved 140°, without control vent, rigid Curved 140°, with control vent, rigid 12 SUCTION DEVICES",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1223F4N",
-          "description": ""
-        },
-        {
-          "code": "HH1223F4W",
-          "description": ""
-        },
-        {
-          "code": "HH1223G1N",
-          "description": ""
-        },
-        {
-          "code": "HH1223G1W",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "page": 15,
-      "description": "4 Eyes",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "page": 15,
-      "description": "Curved 150°, with control vent, rigid Curved 150°, without control vent, rigid Curved 160°, with control vent, rigid Curved 160°, without control vent, rigid Curved 155°, with control vent, rigid Curved 155°, without control vent, rigid Curved 135°, with control vent, rigid Curved 135°, without control vent, rigid 135° Curved 153°, without control vent, flexible Curved 153°, without control vent, flexible Curved 140°, without control vent, rigid Cuved 140°, with control vent, rigid 13 SUCTION DEVICES",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1219A3W",
-          "description": ""
-        },
-        {
-          "code": "HH1219A3N",
-          "description": ""
-        },
-        {
-          "code": "HH1219S3W",
-          "description": ""
-        },
-        {
-          "code": "HH1219S3N",
-          "description": ""
-        },
-        {
-          "code": "HH1229L3W",
-          "description": ""
-        },
-        {
-          "code": "HH1229L3N",
-          "description": ""
-        },
-        {
-          "code": "HH1229K3W",
-          "description": ""
-        },
-        {
-          "code": "HH1229K3N",
-          "description": ""
-        },
-        {
-          "code": "HH1237R2N",
-          "description": ""
-        },
-        {
-          "code": "HH1234X2N",
-          "description": ""
-        },
-        {
-          "code": "HH1235V1N",
-          "description": ""
-        },
-        {
-          "code": "HH1235V1W",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "page": 16,
-      "description": "Curved 158°, without control vent, rigid Curved 158°, with control vent, rigid Double Curved 125°, with control vent, rigid Double Curved 125°, without control vent, rigid",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1227B3N",
-          "description": ""
-        },
-        {
-          "code": "HH1227B3W",
-          "description": ""
-        },
-        {
-          "code": "HH1227D3W",
-          "description": ""
-        },
-        {
-          "code": "HH1227D3N",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "page": 16,
-      "description": "Small curved, with control vent, rigid Small curved, without control vent, rigid Big curved, with control vent, rigid Big curved, without control vent, rigid Double curved, with control vent, rigid Double curved, without control vent, rigid 14 SUCTION DEVICES",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1215A3W",
-          "description": ""
-        },
-        {
-          "code": "HH1215A3N",
-          "description": ""
-        },
-        {
-          "code": "HH1215S3W",
-          "description": ""
-        },
-        {
-          "code": "HH1215S3N",
-          "description": ""
-        },
-        {
-          "code": "HH1232C3W",
-          "description": ""
-        },
-        {
-          "code": "HH1232C3N",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "page": 17,
-      "description": "Plain Tip Flattened Tip Plain Tip with Relieving Eyes Tapered Tip with Relieving Eyes Tapered Tip Atraumatic Tip · The ergonomic design allows the surgeon to work comfortably in any position · Lightweight design helps to minimize hand fatigue during long procedures · Built-in vacuum control allows surgeon to apply the necessary amount of pressure · Relieving eyes are designed to reduce the risk of tissue damage Tri-Grasp suction handles are ergonomically designed to enhance comfort and control for surgeons when performing surgical suction during operative procedures. Plain Tip For general suction of fluids and blood during open surgery. Flattened Tip For suctioning between nerves and muscle tissue. Atraumatic Tip For operations involving delicate tissue where gentle suction is required. Tapered Tip For neurological, cosmetic, or other operations where space is limited and to increase accuracy of suctioning. Tapered Tip with Relieving Eyes For increased accuracy and atraumatic surgical suction when space is limited. Plain Tip with Relieving Eyes For general, atraumatic surgical suction. 15 SUCTION DEVICES Suction tip Vacuum control vent Plain tip O.D 6.6mm Lateral eyes Plain tip 6.6mm with control vent, no lateral eyes Plain tip 6.6mm without control vent, no lateral eyes Plain tip 6.6mm with control vent and lateral eyes Plain tip 6.6mm without control vent, with lateral eyes Plain tip 7.5mm with control vent, no lateral eyes Plain tip 7.5mm without control vent, no lateral eyes Plain tip 7.5mm with control vent and lateral eyes Plain tip 7.5mm without control vent, with lateral eyes Tapered tip with control vent, no lateral eyes Tapered tip without control vent, no lateral eyes Tapered tip with control vent and lateral eyes Tapered tip without control vent, with lateral eyes Flatten tip with control vent, no lateral eyes Flatten tip without control vent, no lateral eyes Atraumatic tip with control vent, no lateral eyes Atraumatic tip without control vent, no lateral eyes Plain tip O.D 6.6mm Plain tip O.D 6.6mm with 4 relieving eyes Plain tip O.D 6.6mm with 4 relieving eyes Plain tip O.D 7.5mm Plain tip O.D 7.5mm Plain tip O.D 7.5mm with 4 relieving eyes Plain tip O.D 7.5mm with 4 relieving eyes Tapered tip Tapered tip Tapered tip with 4 relieving eyes Tapered tip with 4 relieving eyes Flattened Flattened Atraumatic tip Atraumatic tip No No 4 eyes 4 eyes No No 4 eyes 4 eyes No No 4 eyes 4 eyes No No No No Yes No Yes No Yes No Yes No Yes No Yes No Yes No Yes No Plain tip 10mm with control vent and lateral eyes, Curved 150° Plain tip 10mm without control vent, with lateral eyes, Curved 150° Yankauer suction set, OD11.7mm, 3.5m connecting tube + HH1245E1W40CC01 Yankauer suction set, OD11.7mm, 3.5m connecting tube + HH1245E1N40CC01 Plain tip 10mm with control vent and lateral eye, straight Plain tip 10mm without control vent, with lateral eye, straight Yankauer suction set, OD11.7mm, 3.5m connecting tube + HH1245N1W40CC01 Yankauer suction set, OD11.7mm, 3.5m connecting tube + HH1245N1N40CC01",
-      "features": [
-        "The ergonomic design allows the surgeon to work comfortably in any position",
-        "Lightweight design helps to minimize hand fatigue during long procedures",
-        "Built-in vacuum control allows surgeon to apply the necessary amount of pressure",
-        "Relieving eyes are designed to reduce the risk of tissue damage",
-        "Tri-Grasp suction handles are ergonomically designed to enhance comfort and control for surgeons when",
-        "performing surgical suction during operative procedures.",
-        "Plain Tip",
-        "For general suction of fluids",
-        "and blood during open surgery.",
-        "Flattened Tip",
-        "For suctioning between",
-        "nerves and muscle tissue.",
-        "Atraumatic Tip",
-        "For operations involving",
-        "delicate tissue where gentle",
-        "suction is required.",
-        "Tapered Tip",
-        "For neurological, cosmetic,",
-        "or other operations where",
-        "space is limited and to increase",
-        "accuracy of suctioning.",
-        "Tapered Tip with Relieving Eyes",
-        "For increased accuracy",
-        "and atraumatic surgical",
-        "suction when space is limited.",
-        "Plain Tip with Relieving Eyes",
-        "For general, atraumatic",
-        "surgical suction."
-      ],
-      "codes": [
-        {
-          "code": "HH1245E1W0",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1N0",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1W",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1N",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1W0-24",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1N0-24",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1W-24",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1N-24",
-          "description": ""
-        },
-        {
-          "code": "HH1244E1W",
-          "description": ""
-        },
-        {
-          "code": "HH1244E1N",
-          "description": ""
-        },
-        {
-          "code": "HH1244E1W1",
-          "description": ""
-        },
-        {
-          "code": "HH1244E1N1",
-          "description": ""
-        },
-        {
-          "code": "HH1248J1W",
-          "description": ""
-        },
-        {
-          "code": "HH1248J1N",
-          "description": ""
-        },
-        {
-          "code": "HH1258A6RW",
-          "description": ""
-        },
-        {
-          "code": "HH1258A6RN",
-          "description": ""
-        },
-        {
-          "code": "HH3206",
-          "description": ""
-        },
-        {
-          "code": "HH3207",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1W40CC01",
-          "description": ""
-        },
-        {
-          "code": "HH1245E1N40CC01",
-          "description": ""
-        },
-        {
-          "code": "HH1006S1CK38C01",
-          "description": ""
-        },
-        {
-          "code": "HH1006S1CK39C01",
-          "description": ""
-        },
-        {
-          "code": "HH1245N1W40CC01",
-          "description": ""
-        },
-        {
-          "code": "HH1245N1N40CC01",
-          "description": ""
-        },
-        {
-          "code": "HH1006S1CK40C01",
-          "description": ""
-        },
-        {
-          "code": "HH1006S1CK41C01",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "6.6MM",
-        "7.5MM",
-        "10MM",
-        "7MM"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "page": 19,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "page": 19,
-      "description": "Suction Handles and Sets are suction handles or sets for the interoperative removal of blood and fluids during open surgery. 16 SUCTION DEVICES 17 SUCTION DEVICES Plain Tip",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Male Connector Suction Tip",
-      "slug": "male-connector-suction-tip",
-      "page": 20,
-      "description": "· Each tip features the special ribbed connector, which makes it easier to grip and exchange even with wet gloves · A wide range of tips for application in various surgical procedures · Built-in vacuum control is available, allowing surgeon to apply the necessary amount of pressure Plain Tip with 2 Relieving Eyes Plain Tip with 4 Relieving Eyes Tapered Tip Flattened Tip Atraumatic Tip Suction tip Vacuum control vent Plain tip O.D 7.3mm Lateral eyes Plain tip 7.3mm without control vent, no lateral eyes Plain tip 6.6mm without control vent, with lateral eyes Tapered tip without control vent, no lateral eyes Plain tip O.D 6.6mm with 4 relieving eyes Tapered tip Tapered tip without control vent, with lateral eyes Flattened tip without control vent, no lateral eyes Tapered tip with 2 relieving eyes Atraumatic tip without control vent, no lateral eyes Atraumatic tip Flattened No 4 eyes No 2 eyes No No No No No No No No 18 SUCTION DEVICES",
-      "features": [
-        "Each tip features the special ribbed connector, which makes it easier to grip and exchange even with wet",
-        "gloves",
-        "A wide range of tips for application in various surgical procedures",
-        "Built-in vacuum control is available, allowing surgeon to apply the necessary amount of pressure",
-        "Plain Tip with 2 Relieving Eyes",
-        "Plain Tip with 4 Relieving Eyes",
-        "Tapered Tip",
-        "Flattened Tip",
-        "Atraumatic Tip"
-      ],
-      "codes": [
-        {
-          "code": "HH1257N2N",
-          "description": ""
-        },
-        {
-          "code": "HH1255E1N",
-          "description": ""
-        },
-        {
-          "code": "HH1257N1N",
-          "description": ""
-        },
-        {
-          "code": "HH1257N1N1",
-          "description": ""
-        },
-        {
-          "code": "HH1256J1N",
-          "description": ""
-        },
-        {
-          "code": "HH1276A6RN",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "7.3MM",
-        "6.6MM"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "POOLE  SUCTION  HANDLE",
-      "slug": "poole-suction-handle",
-      "page": 21,
-      "description": "Flexible or Rigid sump sucker with removable inner suction probe. Specifically for abdominal surgery, reducing trauma to surrounding tissues. · Constructed from a shatter-resistant plastic · Specially designed to evacuate pooled blood, fluid or debris during deep abdominal surgeries or cesarean suction · Perforated outer sheath for rapid evacuation of pooled blood and fluid · Removable sheath options are available · Features 3 multi-purpose positions · Universal connector easily connects to a variety of suction tubing sizes · Sterile, single patient use Flexible sheath, curved Flexible sheath Rigid sheath with 132 eyes for rapid suction X-ray visible and removable sheath Extra wide lumen for efficient suction during operations causing profuse bleeding Poole (X-ray visible) with recessed holes for abdominal surgery and for extraction of blood and secretions with free sediment 19 SUCTION DEVICES",
-      "features": [
-        "Constructed from a shatter-resistant plastic",
-        "Specially designed to evacuate pooled blood, fluid or debris during deep abdominal surgeries or cesarean",
-        "suction",
-        "Perforated outer sheath for rapid evacuation of pooled blood and fluid",
-        "Removable sheath options are available",
-        "Features 3 multi-purpose positions"
-      ],
-      "codes": [
-        {
-          "code": "HH1243E6N",
-          "description": ""
-        },
-        {
-          "code": "HH1243N6N",
-          "description": ""
-        },
-        {
-          "code": "HH1243N5N",
-          "description": ""
-        },
-        {
-          "code": "HH1243N7N",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Suction Probe with Male Connector",
-      "slug": "suction-probe-with-male-connector",
-      "page": 22,
-      "description": "SUCTION PROBE · Simple and economical rigid PVC suction device, used for general suction purpose · Male connector for easily attaching to all sized suction tube For general suction purposes, orthopaedic suctioning or dental work. Flatten tip Straight tip PVC FREE PRODUCTS AVAILABLE 03 ORTHOPEDIC SUCTION SET",
-      "features": [
-        "Simple and economical rigid PVC suction device, used for general suction purpose"
-      ],
-      "codes": [
-        {
-          "code": "HH1251J1N",
-          "description": ""
-        },
-        {
-          "code": "HH1252J1N",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Gloria",
-      "slug": "gloria",
-      "page": 24,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Cora",
-      "slug": "cora",
-      "page": 25,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "page": 26,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Mona",
-      "slug": "mona",
-      "page": 27,
-      "description": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -20 - 23 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -21 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -22 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -23 20 ORTHOPEDIC SUCTION SET",
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Gloria",
-      "slug": "gloria",
-      "page": 24,
-      "description": "Easyflow filtered suction system for orthopedic surgery. Orthopedic Suction Set with filter keeps the operative area visible, clean and clear. The special filter built into the handle automatically traps solid and can be exchanged in a matter of seconds when filled. Increased filter capacity makes the suction set ideal for hip arthroplasty and other procedures that produce a large amount of debris. Extra filter W/O 15cm curved tip & 23cm curved tip (2 eyes) With 15cm curved tip & 23cm curved tip (2 eyes) With 15cm curved tip & 23cm curved tip & 23cm straight tip (2 eyes) With 15cm curved tip & 15cm straight tip (2 eyes) With 23cm curved tip & 23cm straight tip (2 eyes) With 15cm curved tip (2 eyes) Tip Drawing Extra filter With 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip Two way tip (2 eyes) With 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes) With 15cm curved tip & 23cm curved tip & 28cm straight tip (2 eyes) With 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes) With 23cm curved tip (2 eyes) Tip Drawing · Non-block design decreases risk of damage to tissue and post-operative infection and complications · Filter exchange takes only a few seconds · Reversible suction tip available with straight or curved tip with length 11cm, 15cm, 23cm and 28cm 03 ORTHOPEDIC SUCTION SET 21 ORTHOPEDIC SUCTION SET",
-      "features": [
-        "Non-block design decreases risk of damage to tissue and",
-        "post-operative infection and complications",
-        "Filter exchange takes only a few seconds",
-        "Reversible suction tip available with straight or curved tip",
-        "with length 11cm, 15cm, 23cm and 28cm",
-        "03 ORTHOPEDIC SUCTION SET"
-      ],
-      "codes": [
-        {
-          "code": "HH1200A01",
-          "description": ""
-        },
-        {
-          "code": "HH1200B01",
-          "description": ""
-        },
-        {
-          "code": "HH1200C01",
-          "description": ""
-        },
-        {
-          "code": "HH1200D01",
-          "description": ""
-        },
-        {
-          "code": "HH1200E01",
-          "description": ""
-        },
-        {
-          "code": "HH1200F01",
-          "description": ""
-        },
-        {
-          "code": "HH1200G11",
-          "description": ""
-        },
-        {
-          "code": "HH1200G02",
-          "description": ""
-        },
-        {
-          "code": "HH1200H01",
-          "description": ""
-        },
-        {
-          "code": "HH1200H02",
-          "description": ""
-        },
-        {
-          "code": "HH1200I01",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Cora",
-      "slug": "cora",
-      "page": 25,
-      "description": "Extra filter With 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip Two way tip (2 eyes) With 11cm straight tip & 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes) With 15cm curved tip & 23cm curved tip & 28cm straight tip (2 eyes) With 15cm curved tip & 23cm curved tip & 28cm straight tip (4 eyes) With 23cm curved tip (2 eyes) Tip Drawing Extra filter W/O 15cm curved tip & 23cm curved tip (2 eyes) With 15cm curved tip & 23cm curved tip (2 eyes) With 15cm curved tip & 23cm curved tip & 23cm straight tip (2 eyes) With 15cm curved tip & 15cm straight tip (2 eyes) With 23cm curved tip & 23cm straight tip (2 eyes) With 15cm curved tip (2 eyes) Tip Drawing 22 ORTHOPEDIC SUCTION SET",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1200G11K",
-          "description": ""
-        },
-        {
-          "code": "HH1200G02K",
-          "description": ""
-        },
-        {
-          "code": "HH1200H01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200H02K",
-          "description": ""
-        },
-        {
-          "code": "HH1200I01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200A01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200B01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200C01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200D01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200E01K",
-          "description": ""
-        },
-        {
-          "code": "HH1200F01K",
-          "description": ""
-        }
-      ],
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "page": 26,
-      "description": "Yankauer suction set, OD8.0mm, 3.0m connecting tube + HH1200L02K 23 ORTHOPEDIC SUCTION SET",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1094",
-          "description": ""
-        },
-        {
-          "code": "HH1093",
-          "description": ""
-        },
-        {
-          "code": "HH1006B1U",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "0MM"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Mona",
-      "slug": "mona",
-      "page": 27,
-      "description": "Curved Tip Straight Tip Short tip, OD7.0mm Short curved tip, OD7.0mm Long tip, OD8.5mm Long curved tip, OD8.5mm Short curved tip, OD7.0mm PVC FREE PRODUCTS AVAILABLE 04 SUCTION CONNECTING TUBES",
-      "features": null,
-      "codes": [
-        {
-          "code": "HH1200O01",
-          "description": ""
-        },
-        {
-          "code": "HH1200P01",
-          "description": ""
-        },
-        {
-          "code": "HH1200Q01",
-          "description": ""
-        },
-        {
-          "code": "HH1200R01",
-          "description": ""
-        },
-        {
-          "code": "HH1200S01",
-          "description": ""
-        }
-      ],
-      "sizes": [
-        "0MM",
-        "5MM"
-      ]
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Male Connector",
-      "slug": "male-connector",
-      "page": 30,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Suction Connecting Tubes",
-      "slug": "suction-connecting-tubes",
-      "page": 30,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
     },
     {
       "category": "Fluid Management System",
       "product_name": "Suction Bubble Tubes",
       "slug": "suction-bubble-tubes",
-      "page": 30,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "page": 31,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "page": 32,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Conductive Bubble Tubes",
-      "slug": "conductive-bubble-tubes",
-      "page": 33,
-      "description": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -24 - 28 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -24 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -25 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -25 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -26 - - - - - - - - - - - - - - - - - - - - - - - - - -27 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -28 24 SUCTION CONNECTING TUBES · Attachable to different sized tubes · Transparent color is available for monitoring fluids · Available in a variety of sizes",
-      "features": [
-        "Attachable to different sized tubes",
-        "Transparent color is available for monitoring fluids"
-      ],
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Male Connector",
-      "slug": "male-connector",
-      "page": 30,
-      "description": "· Different connectors available for doctor’s preference · Tube diameter is sized from 3/16’ to 1/4’ and 9/32’ · Length can be customized according to customer’s requirements A complete system to connect suction sources to suction waste collection systems, suction catheters, Yankau- ers, and other suction devices. We could offer a range of easily connected, interchangeable products. 1032 1035/1036 0985 1032 1023 1034 1016/1033/1094 1017/1093 1037 1055 1030 0985 Code O.D. 4-7mm 7-10mm 10-14mm O.D.7.3-12mm O.D.6.8-11.3mm O.D 6.5&11.3mm O.D 8mm Code O.D. 4-7mm/7-10mm 4-7mm/10-14mm 7-10mm/10-14mm 04 SUCTION CONNECTING TUBES 25 SUCTION CONNECTING TUBES Cut Here Fig. 1 Fig. 2 Dispense Through Center Opening Please Cut End with",
-      "features": [
-        "Different connectors available for doctor’s preference"
-      ],
+      "page": null,
+      "description": "Suction bubble tubes are crucial in various medical and industrial processes. They efficiently remove bubbles from liquids during suction operations, maintaining system performance and preventing potential issues caused by trapped air.",
+      "features": [],
       "codes": [
         {
-          "code": "HH1065",
-          "description": ""
+          "code": "GC1301A05",
+          "description": "Description: 5.0mm ID, 30m, smoothbore tube"
         },
         {
-          "code": "HH1066",
-          "description": ""
+          "code": "GC1301A06",
+          "description": "Description: 6.0mm ID, 30m, smoothbore tube"
         },
         {
-          "code": "HH1067",
-          "description": ""
+          "code": "GC1301A07",
+          "description": "Description: 7.0mm ID, 30m, smoothbore tube"
         },
         {
-          "code": "HH1025",
-          "description": ""
+          "code": "GC1302A05",
+          "description": "Description: 5.0mm ID, 30m, anti-crush tube"
         },
         {
-          "code": "HH1024",
-          "description": ""
+          "code": "GC1302A06",
+          "description": "Description: 6.0mm ID, 30m, anti-crush tube"
         },
         {
-          "code": "HH1029",
-          "description": ""
-        },
-        {
-          "code": "HH1028",
-          "description": ""
-        },
-        {
-          "code": "HH1068",
-          "description": ""
-        },
-        {
-          "code": "HH1069",
-          "description": ""
-        },
-        {
-          "code": "HH1070",
-          "description": ""
+          "code": "GC1302A07",
+          "description": "Description: 7.0mm ID, 30m, anti-crush tube"
         }
       ],
-      "sizes": [
-        "7MM",
-        "10MM",
-        "14MM",
-        "12MM",
-        "11.3MM",
-        "8MM"
-      ]
+      "sizes": [],
+      "subcategory": "Suction Connecting Tubes"
     },
     {
       "category": "Fluid Management System",
-      "product_name": "Male Connector",
-      "slug": "male-connector",
-      "page": 30,
-      "description": "Here",
-      "features": null,
-      "codes": null,
-      "sizes": null
+      "product_name": "Suction Canister Wall Mount",
+      "slug": "suction-canister-wall-mount",
+      "page": null,
+      "description": "The wall mount for suction canister is a space - saving and practical accessory. It securely attaches suction canisters to walls, keeping them off the floor, optimizing workspace, and ensuring easy access during medical procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1993B01",
+          "description": "Description: Plastic wall mount"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
     },
     {
       "category": "Fluid Management System",
       "product_name": "Suction Connecting Tubes",
       "slug": "suction-connecting-tubes",
-      "page": 30,
-      "description": null,
-      "features": null,
-      "codes": null,
-      "sizes": null
-    },
-    {
-      "category": "Fluid Management System",
-      "product_name": "Suction Bubble Tubes",
-      "slug": "suction-bubble-tubes",
-      "page": 30,
-      "description": "7.5mm OD 9.0mm OD 10.0mm OD 5.0mm ID, 30m, smoothbore tube 6.0mm ID, 30m, smoothbore tube 7.0mm ID, 30m, smoothbore tube 5.0mm ID, 30m, anti-crush tube 6.0mm ID, 30m, anti-crush tube 7.0mm ID, 30m, anti-crush tube · Clean bulk tubing in rolls that can be cut into the exact length needed · Cut-to–size female connectors are located at 6ft. intervals · Easily cuts to desired length with scissors · Bubble every 36 inches",
+      "page": null,
+      "description": "Suction connecting tubes play a crucial role in healthcare. They efficiently transfer fluids during surgeries, wound treatments and more, ensuring the seamless progress of medical procedures.",
       "features": [
-        "Clean bulk tubing in rolls that can be cut into the exact length needed"
+        "Code \u00b7 O.D. \u00b7 Code \u00b7 O.D.",
+        "GC1065 \u00b7 4-7mm \u00b7 GC1068 \u00b7 4-7mm/7-10mm",
+        "GC1066 \u00b7 7-10mm \u00b7 GC1069 \u00b7 4-7mm/10-14mm",
+        "GC1067 \u00b7 10-14mm \u00b7 GC1070 \u00b7 7-10mm/10-14mm",
+        "GC1025 \u00b7 7.3-12mm \u00b7 GC1028 \u00b7 8mm",
+        "GC1024 \u00b7 6.8-11.3mm \u00b7 GC1029 \u00b7 5.6mm"
       ],
       "codes": [
         {
-          "code": "HH1731A1L",
-          "description": ""
+          "code": "GC1731A1L",
+          "description": "Description: 7.5mm OD"
         },
         {
-          "code": "HH1731C1L",
-          "description": ""
+          "code": "GC1731C1L",
+          "description": "Description: 9.0mm OD"
         },
         {
-          "code": "HH1731D1L",
-          "description": ""
-        },
-        {
-          "code": "HH1301A05",
-          "description": ""
-        },
-        {
-          "code": "HH1301A06",
-          "description": ""
-        },
-        {
-          "code": "HH1301A07",
-          "description": ""
-        },
-        {
-          "code": "HH1302A05",
-          "description": ""
-        },
-        {
-          "code": "HH1302A06",
-          "description": ""
-        },
-        {
-          "code": "HH1302A07",
-          "description": ""
+          "code": "GC1731D1L",
+          "description": "Description: 10.0mm OD"
         }
       ],
-      "sizes": [
-        "7.5MM",
-        "9.0MM",
-        "10.0MM",
-        "5.0MM",
-        "6.0MM",
-        "7.0MM"
-      ]
+      "sizes": [],
+      "subcategory": "Suction Connecting Tubes"
     },
     {
       "category": "Fluid Management System",
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "page": 31,
-      "description": "Connector 6 in 1 straight Connector Y 1/4\" 3/8\"connector fits tubing from 5/16\" to 7/16 (8-11mm). 3/8\"connector is used to join two sections of 3/8\"(10mm) tubing. “T” Tubing Connector 6-in-1 “Y” Tubing Connector 5-in-1 \"Straight\" Tubing Connector SIMS Connector / Irrigation Nozzle “T” Tubing Connector Joins three sections of tubing. Five steps on each leg provides connections of any size tubing from 5 to 11mm (3/16” to 7/16”). 6-in-1 “Y” Tubing Connector Tapered legs fit six sizes of tubing, from 6mm to 15mm (1/4” to 9/16”). 5-in-1 \"Straight\" Tubing Connector Lightweight plastic connectors allow for multiple pieces of tubing to be joined together. SIMS Connector / Irrigation Nozzle Nozzle fits any size tubing from 3 to 6mm (1/8” to 1/4” in seven size increments. Connect same size to same 26 SUCTION CONNECTING TUBES 3m-8.0 × 5.0mm 3m-9.0 × 6.0mm 3m-10.0 × 7.0mm 27 SUCTION CONNECTING TUBES",
-      "features": null,
+      "product_name": "Suction Probe with Male Connector",
+      "slug": "suction-probe-with-male-connector",
+      "page": null,
+      "description": "The suction probe with male connector features a male connector that ensures a tight fit with suction equipment. This allows for efficient fluid removal during medical procedures.",
+      "features": [],
       "codes": [
         {
-          "code": "HH0087",
-          "description": ""
+          "code": "GC1251J1N",
+          "description": "Description: Flatten tip"
         },
         {
-          "code": "HH0088",
-          "description": ""
-        },
-        {
-          "code": "HH3301",
-          "description": ""
-        },
-        {
-          "code": "HH3302",
-          "description": ""
-        },
-        {
-          "code": "HH0078",
-          "description": ""
-        },
-        {
-          "code": "HH0079",
-          "description": ""
-        },
-        {
-          "code": "HH0923",
-          "description": ""
-        },
-        {
-          "code": "HH0924",
-          "description": ""
-        },
-        {
-          "code": "HH1532L2L",
-          "description": ""
-        },
-        {
-          "code": "HH1532C2L",
-          "description": ""
-        },
-        {
-          "code": "HH1532D2L",
-          "description": ""
+          "code": "GC1252J1N",
+          "description": "Description: Straight tip"
         }
       ],
-      "sizes": [
-        "11MM",
-        "10MM",
-        "6MM",
-        "15MM",
-        "5.0MM",
-        "6.0MM",
-        "7.0MM"
-      ]
+      "sizes": [],
+      "subcategory": "Suction Connecting Tubes"
     },
     {
       "category": "Fluid Management System",
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "page": 32,
-      "description": "· GCMedica Suction Connecting Tubing with Vacuum control connector for connecting suction machines to suction tips, and suction waste collection units · Female / Female and Male Vacuum Control Adapter Connection · Conductive with anti-static tube 28 SUCTION CONNECTING TUBES",
-      "features": [
-        "GCMedica Suction Connecting Tubing with Vacuum control connector for connecting suction machines to",
-        "suction tips, and suction waste collection units",
-        "Female / Female and Male Vacuum Control Adapter Connection",
-        "Conductive with anti-static tube"
+      "product_name": "Suction Tubing Connectors",
+      "slug": "suction-tubing-connectors",
+      "page": null,
+      "description": "Suction tubing connectors are essential components in medical suction systems. They securely link different parts, ensuring a stable connection for smooth fluid transfer, and play a crucial role in maintaining efficient suction functionality.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC0078",
+          "description": "Description: \u201cT\u201d Tubing Connector"
+        },
+        {
+          "code": "GC0079",
+          "description": "Description: 6-in-1 \u201cY\u201d Tubing Connector"
+        },
+        {
+          "code": "GC0923",
+          "description": "Description: 5-in-1 \"Straight\" Tubing Connector"
+        },
+        {
+          "code": "GC0924",
+          "description": "Description: SIMS Connector / Irrigation Nozzle"
+        },
+        {
+          "code": "GC0087",
+          "description": "Description: Connector 6 in 1 straight"
+        },
+        {
+          "code": "GC3302",
+          "description": "Description: 3/8\"connector is used to join two sections of 3/8\"(10mm) tubing."
+        }
       ],
-      "codes": null,
-      "sizes": null
+      "sizes": [],
+      "subcategory": "Suction Connecting Tubes"
     },
     {
       "category": "Fluid Management System",
-      "product_name": "Conductive Bubble Tubes",
-      "slug": "conductive-bubble-tubes",
-      "page": 33,
-      "description": "· GCMedica Suction Bubble Tubing can be easily cut through the bubble with scissors to create the desired length and/or tapered end to fit any suction catheter or suction tip · Conductive 5.0mm ID, 3.0m 6.0mm ID, 3.0m 7.0mm ID, 3.0m",
+      "product_name": "Super-Smooth Distal Yankauer",
+      "slug": "flexible-yankauer-suction-tube",
+      "page": null,
+      "description": "The flexi-clear yankauer handle is mainly used for suction therapy in surgical operation, which belongs to the part of the surgical suction assembled. available as a set, pre-attached to 2 or 3 metre tubes. these instruments are single use and sterile.",
       "features": [
-        "GCMedica Suction Bubble Tubing can be easily cut through the bubble with scissors to create the desired",
-        "length and/or tapered end to fit any suction catheter or suction tip",
-        "Conductive"
+        "Mini Fine Super Tip (Two eyes) \u00b7 Short Mini Super Tip (No side eyes) \u00b7 Short Mini Super Tip (Two eyes)",
+        "Midi/Maxi Super Tip (Six eyes) \u00b7 Maxi (Six eyes) \u00b7 Maxi Plus (Four eyes)"
       ],
       "codes": [
         {
-          "code": "HH1307C05",
-          "description": ""
+          "code": "GC1202B4W1",
+          "description": "Size: 12FR \u00b7 Description: Mini fine super tip with two lateral eyes, with control vent"
         },
         {
-          "code": "HH1307C06",
-          "description": ""
+          "code": "GC1202B4N1",
+          "description": "Size: 12FR \u00b7 Description: Mini fine super tip with two lateral eyes, without control vent"
         },
         {
-          "code": "HH1307C07",
-          "description": ""
+          "code": "GC1202A5W1",
+          "description": "Size: 15FR \u00b7 Description: Short mini super tip with no lateral eyes, with control vent"
+        },
+        {
+          "code": "GC1202A5N1",
+          "description": "Size: 15FR \u00b7 Description: Short mini super tip with no lateral eyes, without control vent"
+        },
+        {
+          "code": "GC1202B5N1",
+          "description": "Size: 15FR \u00b7 Description: Short mini super tip with two lateral eyes, without control vent"
+        },
+        {
+          "code": "GC1202F6W1",
+          "description": "Size: 18FR \u00b7 Description: Midi super tip with six lateral eyes, with control vent"
+        },
+        {
+          "code": "GC1202F6N1",
+          "description": "Size: 18FR \u00b7 Description: Midi super tip with six lateral eyes, without control vent"
+        },
+        {
+          "code": "GC1202F7W1",
+          "description": "Size: 22FR \u00b7 Description: Maxi super tip with six lateral eyes, with control vent"
+        },
+        {
+          "code": "GC1202F7N1",
+          "description": "Size: 22FR \u00b7 Description: Maxi super tip with six lateral eyes, without control vent"
+        },
+        {
+          "code": "GC1202D9W2",
+          "description": "Size: 28FR \u00b7 Description: Maxi plus tip with four lateral eyes, with control vent"
+        },
+        {
+          "code": "GC1202D9N2",
+          "description": "Size: 28FR \u00b7 Description: Maxi plus tip with four lateral eyes, without control vent"
         }
       ],
-      "sizes": [
-        "5.0MM",
-        "6.0MM",
-        "7.0MM"
-      ]
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Super-Smooth Flexible Distal Yankauer",
+      "slug": "super-smooth-flexible-distal-yankauer",
+      "page": null,
+      "description": "Available in various tip styles: Smooth plain tip with relieving eyes, smooth plain tip with symmetric eyes .",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1204D4N1EC01",
+          "description": "Size: 12FR \u00b7 Description: Curved 160\u00b0, without control vent \u00b7 Tip type: Smooth plain tip 4.0mm OD with 4 relieving eyes"
+        },
+        {
+          "code": "GC1204D4W1EC01",
+          "description": "Size: 12FR \u00b7 Description: Curved 160\u00b0, with control vent \u00b7 Tip type: Smooth plain tip 4.0mm OD with 4 relieving eyes"
+        },
+        {
+          "code": "GC1204C6N1EC01",
+          "description": "Size: 18FR \u00b7 Description: Curved 160\u00b0, without control vent \u00b7 Tip type: Smooth plain tip 6.0mm OD with 4 symmetric side eyes"
+        },
+        {
+          "code": "GC1204C6W1EC01",
+          "description": "Size: 18FR \u00b7 Description: Curved 50-160\u00b0, with control vent \u00b7 Tip type: Smooth plain tip 6.0mm OD with 4 symmetric side eyes"
+        },
+        {
+          "code": "GC1204C7N1EC01",
+          "description": "Size: 22FR \u00b7 Description: Curved 160\u00b0, without control vent \u00b7 Tip type: Smooth plain tip 7.3mm OD with 4 symmetric side eyes"
+        },
+        {
+          "code": "GC1204C7W1EC01",
+          "description": "Size: 22FR \u00b7 Description: Curved 160\u00b0, with control vent \u00b7 Tip type: Smooth plain tip 7.3mm OD with 4 symmetric side eyes"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Tri-Grasp Yankauer Suction Handle",
+      "slug": "tri-grasp-yankauer-suction-handle",
+      "page": null,
+      "description": "Tri-Grasp yankauer suction handles are ergonomically designed to enhance comfort and control for surgeons when performing surgical suction during operative procedures.",
+      "features": [
+        "Plain Tip \u00b7 Plain Tip with Relieving Eyes \u00b7 Tapered Tip",
+        "For general suction of fluids and blood during open surgery. \u00b7 For general, atraumatic surgical suction. \u00b7 For neurological, cosmetic, or other operations where space is limited and to increase accuracy of suctioning.",
+        "Tapered Tip with Relieving Eyes \u00b7 Flattened Tip \u00b7 Atraumatic Tip",
+        "For increased accuracy and atraumatic surgical suction when space is limited. \u00b7 For suctioning between nerves and muscle tissue. \u00b7 For operations involving delicate tissue where gentle suction is required."
+      ],
+      "codes": [
+        {
+          "code": "GC1245E1W0",
+          "description": "Description: Plain tip 6.6mm with control vent, no lateral eyes \u00b7 Suction tip: Plain tip O.D 6.6mm \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1245E1N0",
+          "description": "Description: Plain tip 6.6mm without control vent, no lateral eyes \u00b7 Suction tip: Plain tip O.D 6.6mm \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1245E1W",
+          "description": "Description: Plain tip 6.6mm with control vent and lateral eyes \u00b7 Suction tip: Plain tip O.D 6.6mm with 4 relieving eyes \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1245E1N",
+          "description": "Description: Plain tip 6.6mm without control vent, with lateral eyes \u00b7 Suction tip: Plain tip O.D 6.6mm with 4 relieving eyes \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1245E1W0-24",
+          "description": "Description: Plain tip 7.5mm with control vent, no lateral eyes \u00b7 Suction tip: Plain tip O.D 7.5mm \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1245E1N0-24",
+          "description": "Description: Plain tip 7.5mm without control vent, no lateral eyes \u00b7 Suction tip: Plain tip O.D 7.5mm \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1245E1W-24",
+          "description": "Description: Plain tip 7.5mm with control vent and lateral eyes \u00b7 Suction tip: Plain tip O.D 7.5mm with 4 relieving eyes \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1245E1N-24",
+          "description": "Description: Plain tip 7.5mm without control vent, with lateral eyes \u00b7 Suction tip: Plain tip O.D 7.5mm with 4 relieving eyes \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1244E1W",
+          "description": "Description: Tapered tip with control vent, no lateral eyes \u00b7 Suction tip: Tapered tip \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1244E1N",
+          "description": "Description: Tapered tip without control vent, no lateral eyes \u00b7 Suction tip: Tapered tip \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1244E1W1",
+          "description": "Description: Tapered tip with control vent and lateral eyes \u00b7 Suction tip: Tapered tip with 4 relieving eyes \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1244E1N1",
+          "description": "Description: Tapered tip without control vent, with lateral eyes \u00b7 Suction tip: Tapered tip with 4 relieving eyes \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: 4 eyes"
+        },
+        {
+          "code": "GC1248J1W",
+          "description": "Description: Flatten tip with control vent, no lateral eyes \u00b7 Suction tip: Flattened \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1248J1N",
+          "description": "Description: Flatten tip without control vent, no lateral eyes \u00b7 Suction tip: Flattened \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1258A6RW",
+          "description": "Description: Atraumatic tip with control vent, no lateral eyes \u00b7 Suction tip: Atraumatic tip \u00b7 Vacuum control vent: Yes \u00b7 Lateral eyes: No"
+        },
+        {
+          "code": "GC1258A6RN",
+          "description": "Description: Atraumatic tip without control vent, no lateral eyes \u00b7 Suction tip: Atraumatic tip \u00b7 Vacuum control vent: No \u00b7 Lateral eyes: No"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Universal Suction Canister Manifold Tubing",
+      "slug": "universal-suction-canister-manifold-tubing",
+      "page": null,
+      "description": "Universal suction canister manifold tubing is a versatile medical tubing solution. It can connect multiple suction canisters, facilitating efficient fluid collection. Its universal design ensures compatibility with various suction systems.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1997A01",
+          "description": "Description: Two canisters manifold tubing"
+        },
+        {
+          "code": "GC1997A02",
+          "description": "Description: Three canisters manifold tubing"
+        },
+        {
+          "code": "GC1997A03",
+          "description": "Description: Four canisters manifold tubing"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Vacuum Control Adaptor",
+      "slug": "vacuum-control-adaptor",
+      "page": null,
+      "description": "The Vacuum Control Adaptor is a vital component in suction systems. It enables precise adjustment of vacuum levels, ensuring optimal suction power for various medical procedures. This adaptor enhances the efficiency and safety of fluid removal.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC3042A01",
+          "description": "Description: Adult"
+        },
+        {
+          "code": "GC3042A02",
+          "description": "Description: Pediatric"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Wire Ring for Suction Canister",
+      "slug": "wire-ring-for-suction-canister",
+      "page": null,
+      "description": "The wire ring for suction canister is a simple yet practical accessory. made of sturdy wire, it easily attaches to the suction canister, providing a convenient grip or hanging point for enhanced portability and ease of use.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1993C01",
+          "description": "Description: ID14.7cm, H13.5cm,adapter for Brucite Suction Canister"
+        },
+        {
+          "code": "GC1993C02",
+          "description": "Description: ID12.2cm, H13.5cm,adapter for Epidote Suction Canister"
+        },
+        {
+          "code": "GC1993C03",
+          "description": "Description: ID11.8cm, H13.5cm,adapter for Omphacite Suction Canister"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Suction Canister & Liner"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Yankauer Suction Handle with Bulb Tip",
+      "slug": "yankauer-handle-with-bulb-tip",
+      "page": null,
+      "description": "The yankauer suction handle with bulb tip features an ergonomic handle that ensures a firm grip. the bulb-shaped tip enables gentle and efficient suction, particularly in sensitive areas.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1223F4N",
+          "description": "Description: Curved 120\u00b0~180\u00b0, without control vent, flexible"
+        },
+        {
+          "code": "GC1223F4W",
+          "description": "Description: Curved 120\u00b0~180\u00b0, with control vent, flexible"
+        },
+        {
+          "code": "GC1273G1N204C01",
+          "description": "Description: Curved 140\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1273G1W204C01",
+          "description": "Description: Curved 140\u00b0, with control vent, rigid"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Yankauer Suction Handle with Crown Tip",
+      "slug": "yankauer-suction-handle-crown-tip",
+      "page": null,
+      "description": "The yankauer suction handle with crown tip comes with an easy-to-grip handle, lessening operator fatigue. The distinct crown tip design allows for better access to hard-to-reach areas, ensuring effective suction.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1233K3N204U01",
+          "description": "Description: Curved 135\u00b0, without control vent, rigid \u00b7 Color: Light blue"
+        },
+        {
+          "code": "GC1233K3N204U02",
+          "description": "Description: Curved 135\u00b0, without control vent, rigid \u00b7 Color: Clear"
+        },
+        {
+          "code": "GC1233K3W204U01",
+          "description": "Description: Curved 135\u00b0, with control vent, rigid \u00b7 Color: Light blue"
+        },
+        {
+          "code": "GC1227D3W",
+          "description": "Description: Double Curved 125\u00b0, with control vent, rigid"
+        },
+        {
+          "code": "GC1227D3N",
+          "description": "Description: Double Curved 125\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1227B3N",
+          "description": "Description: Curved 158\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1227B3W",
+          "description": "Description: Curved 158\u00b0, with control vent, rigid"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Yankauer Suction Handle with Flange Tip",
+      "slug": "yankauer-handle-with-flange-tip",
+      "page": null,
+      "description": "The yankauer suction handle with flange tip combines user-friendly design with enhanced functionality. The ergonomic handle ensures a secure grip, while the flange tip optimizes suction efficiency, especially in hard-to-reach areas.",
+      "features": [
+        "Yankauer Handle: Product code \u00b7 GC1234X2N",
+        "Yankauer Handle: Flange Tip",
+        "Yankauer Handle: Description \u00b7 Curved 153\u00b0, without control vent, flexible",
+        "Yankauer Handle: Product code \u00b7 GC1237R2N",
+        "Yankauer Handle: Product code \u00b7 GC1235V1N, GC1235V1W",
+        "Yankauer Handle: Description \u00b7 GC1235V1N - Curved 140\u00b0, without control vent, rigid; GC1235V1W - Cuved 140\u00b0, with control vent, rigid;"
+      ],
+      "codes": [],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Yankauer Suction Handle with Plain Tip",
+      "slug": "yankauer-handle-with-plain-tip",
+      "page": null,
+      "description": "The yankauer suction handle with plain tip offers straightforward functionality. Its easy-to-grasp handle provides comfort during use, and the plain tip is designed for basic suction needs, simplifying medical procedures.",
+      "features": [],
+      "codes": [
+        {
+          "code": "GC1219A3W",
+          "description": "Description: Curved 140\u00b0, with control vent, rigid"
+        },
+        {
+          "code": "GC1219A3N",
+          "description": "Description: Curved 140\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1219S3W",
+          "description": "Description: Curved 160\u00b0, with control vent, rigid"
+        },
+        {
+          "code": "GC1219S3N",
+          "description": "Description: Curved 160\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1229L3W",
+          "description": "Description: Curved 155\u00b0, with control vent, rigid"
+        },
+        {
+          "code": "GC1229L3N",
+          "description": "Description: Curved 155\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1229K3W",
+          "description": "Description: Curved 135\u00b0, with control vent, rigid"
+        },
+        {
+          "code": "GC1229K3N",
+          "description": "Description: Curved 135\u00b0, without control vent, rigid"
+        },
+        {
+          "code": "GC1278G1W204C01",
+          "description": "Description: Curved 140\u00b0, with control vent, rigid"
+        },
+        {
+          "code": "GC1278G1N204C01",
+          "description": "Description: Curved 140\u00b0, without control vent, rigid"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
+    },
+    {
+      "category": "Fluid Management System",
+      "product_name": "Yankauer Suction Handle with Tapered Tip",
+      "slug": "yankauer-handle-with-tapered-tip",
+      "page": null,
+      "description": "The yankauer suction handle with tapered tip has an ergonomic handle that offers a comfortable hold. Its tapered tip enables targeted and efficient suction in delicate procedures.",
+      "features": [
+        "Yankauer Handle: Tapered Tip"
+      ],
+      "codes": [
+        {
+          "code": "GC1215A3W",
+          "description": "Description: Small curved, with control vent, rigid"
+        },
+        {
+          "code": "GC1215A3N",
+          "description": "Description: Small curved, without control vent, rigid"
+        },
+        {
+          "code": "GC1215S3W",
+          "description": "Description: Big curved, with control vent, rigid"
+        },
+        {
+          "code": "GC1215S3N",
+          "description": "Description: Big curved, without control vent, rigid"
+        },
+        {
+          "code": "GC1232C3W",
+          "description": "Description: Double curved, with control vent, rigid"
+        },
+        {
+          "code": "GC1232C3N",
+          "description": "Description: Double curved, without control vent, rigid"
+        }
+      ],
+      "sizes": [],
+      "subcategory": "Yankauer Suction Device"
     }
   ],
   "images": [
     {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-01.png"
+      "slug": "flexible-yankauer-suction-tube",
+      "filename": "flexible-yankauer-suction-tube-01.webp"
     },
     {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-02.png"
+      "slug": "orthopedic-suction-tip",
+      "filename": "orthopedic-suction-tip-01.webp"
     },
     {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-03.png"
+      "slug": "orthopedic-suction-tip",
+      "filename": "orthopedic-suction-tip-02.webp"
     },
     {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-04.png"
+      "slug": "orthopedic-suction-set",
+      "filename": "orthopedic-suction-set-01.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-01.png"
+      "slug": "orthopedic-suction-set",
+      "filename": "orthopedic-suction-set-02.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-02.png"
+      "slug": "orthopedic-suction-set",
+      "filename": "orthopedic-suction-set-03.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-03.png"
+      "slug": "yankauer-handle-with-tapered-tip",
+      "filename": "yankauer-handle-with-tapered-tip-01.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-04.png"
+      "slug": "yankauer-handle-with-tapered-tip",
+      "filename": "yankauer-handle-with-tapered-tip-02.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-01.png"
+      "slug": "yankauer-handle-with-tapered-tip",
+      "filename": "yankauer-handle-with-tapered-tip-03.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-02.png"
+      "slug": "yankauer-handle-with-tapered-tip",
+      "filename": "yankauer-handle-with-tapered-tip-04.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-03.png"
+      "slug": "orthopedic-suction-tube",
+      "filename": "orthopedic-suction-tube-01.webp"
     },
     {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-04.png"
+      "slug": "orthopedic-suction-tube",
+      "filename": "orthopedic-suction-tube-02.webp"
     },
     {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-01.png"
+      "slug": "orthopedic-suction-tube",
+      "filename": "orthopedic-suction-tube-03.webp"
     },
     {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-02.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-03.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-04.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-01.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-02.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-03.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Single Use Soft Liner",
-      "slug": "single-use-soft-liner",
-      "filename": "single-use-soft-liner-04.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-01.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-02.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-03.png"
-    },
-    {
-      "page": 4,
-      "product_name": "Outer Canister",
-      "slug": "outer-canister",
-      "filename": "outer-canister-04.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-01.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-02.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-03.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-04.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-05.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-06.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-01.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-02.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-03.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-04.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-05.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-06.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-01.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-02.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-03.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-04.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-05.png"
-    },
-    {
-      "page": 5,
-      "product_name": "Vacuum Control Adaptor",
-      "slug": "vacuum-control-adaptor",
-      "filename": "vacuum-control-adaptor-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Wall Mount",
-      "slug": "wall-mount",
-      "filename": "wall-mount-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Roll Stand",
-      "slug": "roll-stand",
-      "filename": "roll-stand-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Automatic Transfer of Fluids",
-      "slug": "automatic-transfer-of-fluids",
-      "filename": "automatic-transfer-of-fluids-08.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-01.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-02.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-03.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-04.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-05.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-06.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-07.png"
-    },
-    {
-      "page": 6,
-      "product_name": "Accessories",
-      "slug": "accessories",
-      "filename": "accessories-08.png"
-    },
-    {
-      "page": 7,
-      "product_name": "HUMITE Canister",
-      "slug": "humite-canister",
-      "filename": "humite-canister-01.png"
-    },
-    {
-      "page": 7,
-      "product_name": "HUMITE Canister",
-      "slug": "humite-canister",
-      "filename": "humite-canister-02.png"
-    },
-    {
-      "page": 7,
-      "product_name": "EPIDOTE Canister with Filter Kit",
-      "slug": "epidote-canister-with-filter-kit",
-      "filename": "epidote-canister-with-filter-kit-01.png"
-    },
-    {
-      "page": 7,
-      "product_name": "EPIDOTE Canister with Filter Kit",
-      "slug": "epidote-canister-with-filter-kit",
-      "filename": "epidote-canister-with-filter-kit-02.png"
-    },
-    {
-      "page": 7,
-      "product_name": "HUMITE Canister",
-      "slug": "humite-canister",
-      "filename": "humite-canister-01.png"
-    },
-    {
-      "page": 7,
-      "product_name": "HUMITE Canister",
-      "slug": "humite-canister",
-      "filename": "humite-canister-02.png"
-    },
-    {
-      "page": 7,
-      "product_name": "EPIDOTE Canister with Filter Kit",
-      "slug": "epidote-canister-with-filter-kit",
-      "filename": "epidote-canister-with-filter-kit-01.png"
-    },
-    {
-      "page": 7,
-      "product_name": "EPIDOTE Canister with Filter Kit",
-      "slug": "epidote-canister-with-filter-kit",
-      "filename": "epidote-canister-with-filter-kit-02.png"
-    },
-    {
-      "page": 8,
-      "product_name": "BRUCITE Canister",
-      "slug": "brucite-canister",
-      "filename": "brucite-canister-01.png"
-    },
-    {
-      "page": 8,
-      "product_name": "BRUCITE Canister",
-      "slug": "brucite-canister",
-      "filename": "brucite-canister-02.png"
-    },
-    {
-      "page": 8,
-      "product_name": "EPIDOTE Canister",
-      "slug": "epidote-canister",
-      "filename": "epidote-canister-01.png"
-    },
-    {
-      "page": 8,
-      "product_name": "EPIDOTE Canister",
-      "slug": "epidote-canister",
-      "filename": "epidote-canister-02.png"
-    },
-    {
-      "page": 8,
-      "product_name": "BRUCITE Canister",
-      "slug": "brucite-canister",
-      "filename": "brucite-canister-01.png"
-    },
-    {
-      "page": 8,
-      "product_name": "BRUCITE Canister",
-      "slug": "brucite-canister",
-      "filename": "brucite-canister-02.png"
-    },
-    {
-      "page": 8,
-      "product_name": "EPIDOTE Canister",
-      "slug": "epidote-canister",
-      "filename": "epidote-canister-01.png"
-    },
-    {
-      "page": 8,
-      "product_name": "EPIDOTE Canister",
-      "slug": "epidote-canister",
-      "filename": "epidote-canister-02.png"
-    },
-    {
-      "page": 9,
-      "product_name": "OMPHACITE Canister",
-      "slug": "omphacite-canister",
-      "filename": "omphacite-canister-01.png"
-    },
-    {
-      "page": 9,
-      "product_name": "OMPHACITE Canister",
-      "slug": "omphacite-canister",
-      "filename": "omphacite-canister-02.png"
-    },
-    {
-      "page": 9,
-      "product_name": "OMPHACITE Canister",
-      "slug": "omphacite-canister",
-      "filename": "omphacite-canister-01.png"
-    },
-    {
-      "page": 9,
-      "product_name": "OMPHACITE Canister",
-      "slug": "omphacite-canister",
-      "filename": "omphacite-canister-02.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-01.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-02.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-03.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-04.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-05.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-06.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-07.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-08.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-01.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-02.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-03.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-04.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-05.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-06.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-07.png"
-    },
-    {
-      "page": 10,
-      "product_name": "Wire Ring for Suction Canister",
-      "slug": "wire-ring-for-suction-canister",
-      "filename": "wire-ring-for-suction-canister-08.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-01.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-02.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-03.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-04.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-05.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-06.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-07.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-08.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-09.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-10.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-01.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-02.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-03.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-04.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-05.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-06.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-07.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-08.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-09.png"
-    },
-    {
-      "page": 12,
-      "product_name": "Super-Smooth Distal Yankauer",
-      "slug": "super-smooth-distal-yankauer",
-      "filename": "super-smooth-distal-yankauer-10.png"
-    },
-    {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
       "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-01.png"
+      "filename": "atraumatic-tip-yankauer-01.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-02.png"
+      "slug": "onoff-yankauer-suction-handle-with-plain-tip",
+      "filename": "onoff-yankauer-suction-handle-with-plain-tip-01.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-03.png"
+      "slug": "onoff-yankauer-suction-handle-with-plain-tip",
+      "filename": "onoff-yankauer-suction-handle-with-plain-tip-02.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-04.png"
+      "slug": "onoff-yankauer-suction-handle-with-plain-tip",
+      "filename": "onoff-yankauer-suction-handle-with-plain-tip-03.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-01.png"
+      "slug": "yankauer-handle-with-crown-tip",
+      "filename": "yankauer-handle-with-crown-tip-01.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-02.png"
+      "slug": "yankauer-handle-with-crown-tip",
+      "filename": "yankauer-handle-with-crown-tip-02.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-03.png"
+      "slug": "yankauer-handle-with-crown-tip",
+      "filename": "yankauer-handle-with-crown-tip-03.webp"
     },
     {
-      "page": 13,
-      "product_name": "Atraumatic Tip Yankauer",
-      "slug": "atraumatic-tip-yankauer",
-      "filename": "atraumatic-tip-yankauer-04.png"
+      "slug": "yankauer-handle-with-bulb-tip",
+      "filename": "yankauer-handle-with-bulb-tip-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-01.png"
+      "slug": "yankauer-handle-with-bulb-tip",
+      "filename": "yankauer-handle-with-bulb-tip-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-02.png"
+      "slug": "yankauer-handle-with-bulb-tip",
+      "filename": "yankauer-handle-with-bulb-tip-03.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-03.png"
+      "slug": "yankauer-handle-with-bulb-tip",
+      "filename": "yankauer-handle-with-bulb-tip-04.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-04.png"
+      "slug": "yankauer-handle-with-plain-tip",
+      "filename": "yankauer-handle-with-plain-tip-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-05.png"
+      "slug": "yankauer-handle-with-plain-tip",
+      "filename": "yankauer-handle-with-plain-tip-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-06.png"
+      "slug": "single-use-suction-canister",
+      "filename": "single-use-suction-canister-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-07.png"
+      "slug": "yankauer-handle-with-flange-tip",
+      "filename": "yankauer-handle-with-flange-tip-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-08.png"
+      "slug": "yankauer-handle-with-flange-tip",
+      "filename": "yankauer-handle-with-flange-tip-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-09.png"
+      "slug": "yankauer-handle-with-flange-tip",
+      "filename": "yankauer-handle-with-flange-tip-03.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-01.png"
+      "slug": "suction-canister-setup",
+      "filename": "suction-canister-setup-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-02.png"
+      "slug": "suction-canister-setup",
+      "filename": "suction-canister-setup-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-03.png"
+      "slug": "medical-canister",
+      "filename": "medical-canister-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-04.png"
+      "slug": "medical-canister",
+      "filename": "medical-canister-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-05.png"
+      "slug": "yankauer-suction-handle-crown-tip",
+      "filename": "yankauer-suction-handle-crown-tip-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-06.png"
+      "slug": "yankauer-suction-handle-crown-tip",
+      "filename": "yankauer-suction-handle-crown-tip-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-07.png"
+      "slug": "yankauer-suction-handle-crown-tip",
+      "filename": "yankauer-suction-handle-crown-tip-03.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-08.png"
+      "slug": "yankauer-suction-handle-crown-tip",
+      "filename": "yankauer-suction-handle-crown-tip-04.webp"
     },
     {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-09.png"
+      "slug": "rigid-canister",
+      "filename": "rigid-canister-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-01.png"
+      "slug": "tri-grasp-yankauer-suction-handle",
+      "filename": "tri-grasp-yankauer-suction-handle-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-02.png"
+      "slug": "suction-canister-with-filter-kit",
+      "filename": "suction-canister-with-filter-kit-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-03.png"
+      "slug": "megaflow-yankauer-handle-with-suction-connecting-tube",
+      "filename": "megaflow-yankauer-handle-with-suction-connecting-tube-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-04.png"
+      "slug": "soft-liners-with-suction-tubing-and-vacuum-control-adaptor",
+      "filename": "soft-liners-with-suction-tubing-and-vacuum-control-adaptor-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-05.png"
+      "slug": "soft-liners-with-suction-tubing-and-vacuum-control-adaptor",
+      "filename": "soft-liners-with-suction-tubing-and-vacuum-control-adaptor-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-06.png"
+      "slug": "male-connector-yankauer-suction-tip",
+      "filename": "male-connector-yankauer-suction-tip-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-07.png"
+      "slug": "single-use-soft-suction-liner",
+      "filename": "single-use-soft-suction-liner-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-08.png"
+      "slug": "single-use-soft-suction-liner",
+      "filename": "single-use-soft-suction-liner-02.webp"
     },
     {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-09.png"
+      "slug": "single-use-soft-suction-liner",
+      "filename": "single-use-soft-suction-liner-03.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-01.png"
+      "slug": "orthopedic-suction-set-with-suction-connecting-tube",
+      "filename": "orthopedic-suction-set-with-suction-connecting-tube-01.webp"
     },
     {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-02.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-03.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-04.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-05.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-06.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-07.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-08.png"
-    },
-    {
-      "page": 14,
-      "product_name": "MOLDED YANKAUER",
-      "slug": "molded-yankauer",
-      "filename": "molded-yankauer-09.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-01.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-02.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-03.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-04.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-05.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-06.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-07.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-08.png"
-    },
-    {
-      "page": 14,
-      "product_name": "On/off Yankauer",
-      "slug": "onoff-yankauer",
-      "filename": "onoff-yankauer-09.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-01.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-02.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-03.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-04.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-05.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-06.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-07.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-08.png"
-    },
-    {
-      "page": 14,
-      "product_name": "Bulb Tip Yankauer",
-      "slug": "bulb-tip-yankauer",
-      "filename": "bulb-tip-yankauer-09.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-01.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-02.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-03.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-04.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-05.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-06.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-07.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-08.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-01.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-02.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-03.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-04.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-05.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-06.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-07.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-08.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-01.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-02.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-03.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-04.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-05.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-06.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-07.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Flange Tip Yankauer",
-      "slug": "flange-tip-yankauer",
-      "filename": "flange-tip-yankauer-08.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-01.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-02.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-03.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-04.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-05.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-06.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-07.png"
-    },
-    {
-      "page": 15,
-      "product_name": "Plain Tip Yankauer",
-      "slug": "plain-tip-yankauer",
-      "filename": "plain-tip-yankauer-08.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-01.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-02.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-03.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-04.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-05.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-06.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-07.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-08.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-01.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-02.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-03.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-04.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-05.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-06.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-07.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-08.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-01.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-02.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-03.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-04.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-05.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-06.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-07.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Crown Tip Yankauer",
-      "slug": "crown-tip-yankauer",
-      "filename": "crown-tip-yankauer-08.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-01.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-02.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-03.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-04.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-05.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-06.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-07.png"
-    },
-    {
-      "page": 16,
-      "product_name": "Tapered Tip Yankauer",
-      "slug": "tapered-tip-yankauer",
-      "filename": "tapered-tip-yankauer-08.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-01.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-02.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-03.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-04.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-05.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-06.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-07.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-01.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-02.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-03.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-04.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-05.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-06.png"
-    },
-    {
-      "page": 17,
-      "product_name": "Tri-Grasp Suction Handle",
-      "slug": "tri-grasp-suction-handle",
-      "filename": "tri-grasp-suction-handle-07.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-01.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-02.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-03.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-04.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-05.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-01.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-02.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-03.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-04.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-05.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-01.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-02.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-03.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-04.png"
-    },
-    {
-      "page": 19,
-      "product_name": "MegaFlow",
-      "slug": "megaflow",
-      "filename": "megaflow-05.png"
-    },
-    {
-      "page": 20,
-      "product_name": "Male Connector Suction Tip",
-      "slug": "male-connector-suction-tip",
-      "filename": "male-connector-suction-tip-01.png"
-    },
-    {
-      "page": 20,
-      "product_name": "Male Connector Suction Tip",
-      "slug": "male-connector-suction-tip",
-      "filename": "male-connector-suction-tip-01.png"
-    },
-    {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
       "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-01.png"
+      "filename": "poole-suction-handle-01.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
       "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-02.png"
+      "filename": "poole-suction-handle-02.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
       "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-03.png"
+      "filename": "poole-suction-handle-03.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
       "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-04.png"
+      "filename": "poole-suction-handle-04.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
       "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-01.png"
+      "filename": "poole-suction-handle-05.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
-      "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-02.png"
+      "slug": "outer-canister",
+      "filename": "outer-canister-01.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
-      "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-03.png"
+      "slug": "outer-canister",
+      "filename": "outer-canister-02.webp"
     },
     {
-      "page": 21,
-      "product_name": "POOLE  SUCTION  HANDLE",
-      "slug": "poole-suction-handle",
-      "filename": "poole-suction-handle-04.png"
+      "slug": "outer-canister",
+      "filename": "outer-canister-03.webp"
     },
     {
-      "page": 22,
-      "product_name": "Suction Probe with Male Connector",
       "slug": "suction-probe-with-male-connector",
-      "filename": "suction-probe-with-male-connector-01.png"
+      "filename": "suction-probe-with-male-connector-01.webp"
     },
     {
-      "page": 22,
-      "product_name": "Suction Probe with Male Connector",
       "slug": "suction-probe-with-male-connector",
-      "filename": "suction-probe-with-male-connector-02.png"
+      "filename": "suction-probe-with-male-connector-02.webp"
     },
     {
-      "page": 22,
-      "product_name": "Suction Probe with Male Connector",
-      "slug": "suction-probe-with-male-connector",
-      "filename": "suction-probe-with-male-connector-01.png"
+      "slug": "canister-roll-stand",
+      "filename": "canister-roll-stand-01.webp"
     },
     {
-      "page": 22,
-      "product_name": "Suction Probe with Male Connector",
-      "slug": "suction-probe-with-male-connector",
-      "filename": "suction-probe-with-male-connector-02.png"
+      "slug": "canister-roll-stand",
+      "filename": "canister-roll-stand-02.webp"
     },
     {
-      "page": 24,
-      "product_name": "Gloria",
-      "slug": "gloria",
-      "filename": "gloria-01.png"
+      "slug": "suction-canister-wall-mount",
+      "filename": "suction-canister-wall-mount-01.webp"
     },
     {
-      "page": 24,
-      "product_name": "Gloria",
-      "slug": "gloria",
-      "filename": "gloria-01.png"
+      "slug": "suction-canister-wall-mount",
+      "filename": "suction-canister-wall-mount-02.webp"
     },
     {
-      "page": 25,
-      "product_name": "Cora",
-      "slug": "cora",
-      "filename": "cora-01.png"
+      "slug": "super-smooth-flexible-distal-yankauer",
+      "filename": "super-smooth-flexible-distal-yankauer-01.webp"
     },
     {
-      "page": 25,
-      "product_name": "Cora",
-      "slug": "cora",
-      "filename": "cora-01.png"
+      "slug": "spinel-soft-liner",
+      "filename": "spinel-soft-liner-01.webp"
     },
     {
-      "page": 26,
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "filename": "chloe-01.png"
+      "slug": "roll-stand-with-pressure-gauge",
+      "filename": "roll-stand-with-pressure-gauge-01.webp"
     },
     {
-      "page": 26,
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "filename": "chloe-02.png"
-    },
-    {
-      "page": 26,
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "filename": "chloe-03.png"
-    },
-    {
-      "page": 26,
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "filename": "chloe-01.png"
-    },
-    {
-      "page": 26,
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "filename": "chloe-02.png"
-    },
-    {
-      "page": 26,
-      "product_name": "Chloe",
-      "slug": "chloe",
-      "filename": "chloe-03.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-01.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-02.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-03.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-04.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-01.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-02.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-03.png"
-    },
-    {
-      "page": 27,
-      "product_name": "Mona",
-      "slug": "mona",
-      "filename": "mona-04.png"
-    },
-    {
-      "page": 30,
-      "product_name": "Male Connector",
-      "slug": "male-connector",
-      "filename": "male-connector-01.png"
-    },
-    {
-      "page": 30,
-      "product_name": "Suction Connecting Tubes",
       "slug": "suction-connecting-tubes",
-      "filename": "suction-connecting-tubes-01.png"
+      "filename": "suction-connecting-tubes-01.webp"
     },
     {
-      "page": 30,
-      "product_name": "Suction Bubble Tubes",
-      "slug": "suction-bubble-tubes",
-      "filename": "suction-bubble-tubes-01.png"
-    },
-    {
-      "page": 30,
-      "product_name": "Male Connector",
-      "slug": "male-connector",
-      "filename": "male-connector-01.png"
-    },
-    {
-      "page": 30,
-      "product_name": "Male Connector",
-      "slug": "male-connector",
-      "filename": "male-connector-01.png"
-    },
-    {
-      "page": 30,
-      "product_name": "Suction Connecting Tubes",
       "slug": "suction-connecting-tubes",
-      "filename": "suction-connecting-tubes-01.png"
+      "filename": "suction-connecting-tubes-02.webp"
     },
     {
-      "page": 30,
-      "product_name": "Suction Bubble Tubes",
       "slug": "suction-bubble-tubes",
-      "filename": "suction-bubble-tubes-01.png"
+      "filename": "suction-bubble-tubes-01.webp"
     },
     {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-01.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-02.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-03.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-04.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-05.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-06.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-07.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-08.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-01.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-02.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-03.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-04.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-05.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-06.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-07.png"
-    },
-    {
-      "page": 31,
-      "product_name": "Suction Connectors",
-      "slug": "suction-connectors",
-      "filename": "suction-connectors-08.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-01.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-02.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-03.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-04.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-05.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-06.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-01.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-02.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-03.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-04.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-05.png"
-    },
-    {
-      "page": 32,
-      "product_name": "Conductive Suction Connecting Tubes",
-      "slug": "conductive-suction-connecting-tubes",
-      "filename": "conductive-suction-connecting-tubes-06.png"
-    },
-    {
-      "page": 33,
-      "product_name": "Conductive Bubble Tubes",
       "slug": "conductive-bubble-tubes",
-      "filename": "conductive-bubble-tubes-01.png"
+      "filename": "conductive-bubble-tubes-01.webp"
     },
     {
-      "page": 33,
-      "product_name": "Conductive Bubble Tubes",
-      "slug": "conductive-bubble-tubes",
-      "filename": "conductive-bubble-tubes-01.png"
+      "slug": "suction-tubing-connectors",
+      "filename": "suction-tubing-connectors-01.webp"
+    },
+    {
+      "slug": "suction-tubing-connectors",
+      "filename": "suction-tubing-connectors-02.webp"
+    },
+    {
+      "slug": "suction-tubing-connectors",
+      "filename": "suction-tubing-connectors-03.webp"
+    },
+    {
+      "slug": "conductive-suction-connecting-tubes",
+      "filename": "conductive-suction-connecting-tubes-01.webp"
+    },
+    {
+      "slug": "wire-ring-for-suction-canister",
+      "filename": "wire-ring-for-suction-canister-01.webp"
+    },
+    {
+      "slug": "reusable-metal-holder-for-reusable-canister",
+      "filename": "reusable-metal-holder-for-reusable-canister-01.webp"
+    },
+    {
+      "slug": "reusable-metal-holder-for-reusable-canister",
+      "filename": "reusable-metal-holder-for-reusable-canister-02.webp"
+    },
+    {
+      "slug": "universal-suction-canister-manifold-tubing",
+      "filename": "universal-suction-canister-manifold-tubing-01.webp"
+    },
+    {
+      "slug": "automatic-transfer-of-fluids",
+      "filename": "automatic-transfer-of-fluids-01.webp"
+    },
+    {
+      "slug": "automatic-transfer-of-fluids",
+      "filename": "automatic-transfer-of-fluids-02.webp"
+    },
+    {
+      "slug": "vacuum-control-adaptor",
+      "filename": "vacuum-control-adaptor-01.webp"
     }
   ],
-  "source_pdf": "Fluid Management System.pdf",
-  "notes": "Images are named by product slug derived from title. If multiple products share a page, images are duplicated per product."
+  "source": "https://www.gcmedica.com/fluid-management-in-hospital",
+  "notes": "Synced from GCMedica online catalog on customer request; content and specs pulled from product detail pages."
 }

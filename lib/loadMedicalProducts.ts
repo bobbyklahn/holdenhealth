@@ -18,6 +18,7 @@ interface RawProduct {
   features?: string[] | null;
   codes?: RawProductCode[] | null;
   sizes?: string[] | null;
+  subcategory?: string | null;
 }
 
 interface RawImage {
@@ -44,6 +45,7 @@ export interface ProductEntry {
   sizes: string[];
   page?: number | null;
   images: string[];
+  subcategory?: string | null;
 }
 
 export interface CategoryProducts {
@@ -209,6 +211,7 @@ export async function loadCategoryProducts(slug: string): Promise<CategoryProduc
       codes: ProductCode[];
       sizes: string[];
       page?: number | null;
+      subcategory?: string;
     }
   >();
 
@@ -221,6 +224,7 @@ export async function loadCategoryProducts(slug: string): Promise<CategoryProduc
     const codes = normaliseCodes(product.codes);
     const sizes = normaliseTextArray(product.sizes);
     const page = product.page ?? existing?.page ?? null;
+    const subcategory = sanitiseText(product.subcategory ?? undefined) ?? existing?.subcategory ?? undefined;
 
     if (!existing) {
       productMap.set(product.slug, {
@@ -230,7 +234,8 @@ export async function loadCategoryProducts(slug: string): Promise<CategoryProduc
         features,
         codes,
         sizes,
-        page
+        page,
+        subcategory
       });
       continue;
     }
@@ -265,6 +270,10 @@ export async function loadCategoryProducts(slug: string): Promise<CategoryProduc
       existing.page = page;
     }
 
+    if (!existing.subcategory && subcategory) {
+      existing.subcategory = subcategory;
+    }
+
     if (description && !existing.description) {
       existing.description = description;
     }
@@ -283,6 +292,7 @@ export async function loadCategoryProducts(slug: string): Promise<CategoryProduc
       features: entry.features,
       codes: entry.codes,
       sizes: entry.sizes,
+      subcategory: entry.subcategory,
       images: unique([
         ...(imageMap.get(entry.slug) ?? []),
         ...(directoryImageMap.get(entry.slug) ?? [])
